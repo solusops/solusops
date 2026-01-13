@@ -231,9 +231,9 @@ Wish you a good-looking profile README!
 
 ```text
 🌞 Morning                125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-🌆 Daytime                528 commits         █████████░░░░░░░░░░░░░░░░   37.82 % 
-🌃 Evening                609 commits         ███████████░░░░░░░░░░░░░░   43.62 % 
-🌙 Night                  134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+🌆 Daytime                528 commits         █████████░░░░░░░░░░░░░░░░   37.80 % 
+🌃 Evening                610 commits         ███████████░░░░░░░░░░░░░░   43.66 % 
+🌙 Night                  134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 ```
 
 
@@ -241,15 +241,15 @@ Wish you a good-looking profile README!
 
 ```text
 💬 Programming Languages: 
-HTML                     2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-TeX                      1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Markdown                 1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-YAML                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-TypeScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+HTML                     2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.78 % 
+TeX                      1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+YAML                     1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+TypeScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 ```
 
 
- Last Updated on 12/01/2026 13:49:06 UTC
+ Last Updated on 13/01/2026 17:28:07 UTC
 <!--END_SECTION:waka-->
 <br>
 
