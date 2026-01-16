@@ -33,6 +33,10 @@ Wish you a good-looking profile README!
 <p align="left"><picture> <img src="https://komarev.com/ghpvc/?username=databoysu&label=Profile%20Views&color=green&style=for-the-badge&abbreviated=true" alt="databoysu"/></picture> </p><p align="center"><picture><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F750&width=570&lines=AI+%C3%97+Infrastructure+%C3%97+Security;Building+scalable+AI+systems;Research-driven+Engineering" alt="Research-Driven Engineering"/></picture></p>
 
 ---
+<!--START_SECTION:shooter-->
+<!--END_SECTION:shooter-->
+
+---
 
 <table width="100%" align="center">  
   <tr>    
