@@ -34,6 +34,7 @@ Wish you a good-looking profile README!
 
 ---
 <!--START_SECTION:shooter-->
+![GitHub Space Shooter](assets/game.gif)
 <!--END_SECTION:shooter-->
 
 ---
