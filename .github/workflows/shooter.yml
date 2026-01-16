@@ -1,4 +1,4 @@
-name: Update Space Shooter Game
+name: commit_shoot
 
 on:
   schedule:
