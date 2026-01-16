@@ -33,12 +33,6 @@ Wish you a good-looking profile README!
 <p align="left"><picture> <img src="https://komarev.com/ghpvc/?username=databoysu&label=Profile%20Views&color=green&style=for-the-badge&abbreviated=true" alt="databoysu"/></picture> </p><p align="center"><picture><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F750&width=570&lines=AI+%C3%97+Infrastructure+%C3%97+Security;Building+scalable+AI+systems;Research-driven+Engineering" alt="Research-Driven Engineering"/></picture></p>
 
 ---
-<!--START_SECTION:shooter-->
-![GitHub Space Shooter](assets/game.gif)
-<!--END_SECTION:shooter-->
-
----
-
 <table width="100%" align="center">  
   <tr>    
     <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;width:40%;">
@@ -259,9 +253,9 @@ Markdown                 38 mins             █░░░░░░░░░░�
 <br>
 
 ---
+<!--START_SECTION:shooter-->
+![GitHub Space Shooter](assets/game.gif)
+<!--END_SECTION:shooter-->
+<picture>  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/></picture>
+[<img src="assets/WriteThisDown(Instrumental).webp" width="100%" height="5"/>](https://soundcloud.com/soulchefmusic/write-this-down-instrumental?in=imtorm/sets/aight&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
-<p align="center"><picture>  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></picture>
-
-  [<img src="assets/WriteThisDown(Instrumental).webp" width="100%" height="5"/>](https://soundcloud.com/soulchefmusic/write-this-down-instrumental?in=imtorm/sets/aight&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-
-</p>
