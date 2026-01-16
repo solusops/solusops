@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: DataBoySu/gh-space-shooter@v1
+      - uses: DataBoySu/gh-space-shooter@master
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'assets/game.gif'
