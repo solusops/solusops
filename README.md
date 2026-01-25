@@ -170,15 +170,15 @@ Wish you a good-looking profile README!
 <table style="margin: 0 auto; max-width: 800px; background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>    <tr>      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>    </tr>  </thead>    <tr>      <td align="center" style="border: none;">
         <picture><img src="https://lmstudio.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flmstudio-app-logo.11b4d746.webp&w=48&q=75" alt="LMStudio" width="50" height="60"/></picture><br>LM Studio      </td>    </tr>  </tbody></table></div>
----        
+---
 </details></picture>
 
 <!-- Git Stats -->
 <details><summary> <picture><img src="assets/git_stats.webp"/></picture></summary>
 <br>
 <p align="center" width="100%">
-  <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&theme=swift&show=reviews,prs_merged,prs_merged_percentage&hide_border=false&border_radius=2" alt="GitHub stats" width="50%" height="320" align="top">
-  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=false&include_all_commits=true&count_private=false" alt="Top languages" width="445" height="240" align="top"/>
+  <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&theme=swift&show=reviews,prs_merged,prs_merged_percentage&hide_border=false&border_radius=2" alt="GitHub stats" width="50%" height="320">
+  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=false&include_all_commits=true&count_private=false" alt="Top languages" width="49%" height="270>
 </p>
 </details>
 <div align="center">
