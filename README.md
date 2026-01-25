@@ -33,11 +33,12 @@ Wish you a good-looking profile README!
 <p align="left"><picture> <img src="https://komarev.com/ghpvc/?username=databoysu&label=Profile%20Views&color=green&style=for-the-badge&abbreviated=true" alt="databoysu"/></picture> </p><p align="center"><picture><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F750&width=570&lines=AI+%C3%97+Infrastructure+%C3%97+Security;Building+scalable+AI+systems;Research-driven+Engineering" alt="Research-Driven Engineering"/></picture></p>
 
 ---
+
 <table width="100%" align="center">  
-  <tr>    
+  <tr>
     <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;width:40%;">
-      <picture><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Quotes" style="display:block;width:100%;max-width:640px;border:6px solid #000;" /></picture></td>    
-    <td align="right" style="border:none;padding:0;">      
+      <picture><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Quotes" style="display:block;width:100%;max-width:640px;border:6px solid #000;" /></picture></td>
+    <td align="right" style="border:none;padding:0;">
       <picture><img src="https://github-readme-streak-stats-gamma-ten-44.vercel.app?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" style="border:6px solid #000;display:inline-block;" /></picture>
     </td>  
   </tr>
@@ -46,6 +47,7 @@ Wish you a good-looking profile README!
 ---
 
 # <picture><img src="assets/About.webp"></picture>
+
 <details>
   <summary><picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Short)" alt="Summary (Short)" width="60%"/></picture>
 </summary>
@@ -85,12 +87,14 @@ Wish you a good-looking profile README!
 </table>
 
 ---
+
 <!-- Tech Stack -->
 <details><summary>
 <p align="center"><picture><img src="assets/techstackroll.webp" width="10%">
       <img src="assets/tech_stac.webp" width="40%" alt="Tech Stack"/></picture>    </p>
 
 ---
+
 </summary>
 
 <h3 align="center">Programming</h3>
@@ -171,9 +175,9 @@ Wish you a good-looking profile README!
 
   <div align="center">
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
-  <tr>    
-  <td align="left" width="47%">      
-  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%"/></td>    
+  <tr>
+  <td align="left" width="47%">
+  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%"/></td>
     <td align="right">
       <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&theme=swift"
       alt="GitHub stats" width="100%"/>
@@ -224,34 +228,35 @@ Wish you a good-looking profile README!
 </picture>
 
 <!--START_SECTION:waka-->
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-517.82%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-🌆 Daytime                550 commits         █████████░░░░░░░░░░░░░░░░   37.01 % 
-🌃 Evening                646 commits         ███████████░░░░░░░░░░░░░░   43.47 % 
-🌙 Night                  134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+🌞 Morning                156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+🌆 Daytime                550 commits         █████████░░░░░░░░░░░░░░░░   37.01 %
+🌃 Evening                646 commits         ███████████░░░░░░░░░░░░░░   43.47 %
+🌙 Night                  134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-TypeScript               1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   37.67 % 
-Markdown                 55 mins             ████████░░░░░░░░░░░░░░░░░   33.05 % 
-YAML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Git                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+💬 Programming Languages:
+TypeScript               1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   37.67 %
+Markdown                 55 mins             ████████░░░░░░░░░░░░░░░░░   33.05 %
+YAML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+Git                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
+Last Updated on 25/01/2026 06:25:38 UTC
 
- Last Updated on 25/01/2026 06:25:38 UTC
 <!--END_SECTION:waka-->
 
 ---
+
 <div align="center" border="0"><tr><td>
 <!--START_SECTION:waka30-->
 
@@ -269,8 +274,11 @@ TypeScript   2 hrs 10 mins   🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 </td></tr></div>
 
 <!--START_SECTION:shooter-->
-![GitHub Space Shooter](assets/game.gif)
-<!--END_SECTION:shooter-->
-<picture>  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/></picture>
-[<img src="assets/WriteThisDown(Instrumental).webp" width="100%" height="5"/>](https://soundcloud.com/soulchefmusic/write-this-down-instrumental?in=imtorm/sets/aight&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
+![GitHub Space Shooter](assets/game.gif)
+
+<!--END_SECTION:shooter-->
+
+<picture> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/></picture>
+
+[<img src="assets/WriteThisDown(Instrumental).webp" width="100%" height="5"/>](https://soundcloud.com/soulchefmusic/write-this-down-instrumental?in=imtorm/sets/aight&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
