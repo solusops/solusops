@@ -252,7 +252,7 @@ CSS                      4 mins              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-<table border="0"><tr><td>
+<table align = "center" border="0"><tr><td>
 <!--START_SECTION:waka30-->
 
 ```txt
