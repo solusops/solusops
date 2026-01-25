@@ -176,7 +176,7 @@ Wish you a good-looking profile README!
 <br>
 <p align="center" width="100%">
   <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&theme=swift&show=reviews,prs_merged,prs_merged_percentage&hide_border=false&border_radius=2" alt="GitHub stats" width="54%" height="320" align="top">
-  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=false&include_all_commits=true&count_private=false" alt="Top languages" width="40%" height="320" align="top"/>
+  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=false&include_all_commits=true&count_private=false" alt="Top languages" width="40%" height="280" align="top"/>
 </p>
 </details>
 <div align="center">
