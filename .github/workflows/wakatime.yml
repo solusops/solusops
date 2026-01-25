@@ -34,9 +34,8 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Update Waka stats
           #IGNORED_LANGUAGES: YAML JSON TOML
-          SHOW_TOTAL: true
           SHOW_TITLE: true
-          SECTION_NAME: waka-30
+          SECTION_NAME: waka30
           BLOCKS: "⬜🟨🟩"
           TIME_RANGE: last_30_days
           SHOW_TIME: true
