@@ -237,31 +237,31 @@ Wish you a good-looking profile README!
 </picture></summary>
 
 <!--START_SECTION:waka-->
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-517.82%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉**
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 %
-🌆 Daytime                550 commits         █████████░░░░░░░░░░░░░░░░   37.01 %
-🌃 Evening                646 commits         ███████████░░░░░░░░░░░░░░   43.47 %
-🌙 Night                  134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+🌞 Morning                156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+🌆 Daytime                596 commits         ██████████░░░░░░░░░░░░░░░   38.90 % 
+🌃 Evening                646 commits         ███████████░░░░░░░░░░░░░░   42.17 % 
+🌙 Night                  134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages:
-TypeScript               1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   37.67 %
-Markdown                 55 mins             ████████░░░░░░░░░░░░░░░░░   33.05 %
-YAML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-Git                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+💬 Programming Languages: 
+Markdown                 3 hrs 46 mins       ██████████████░░░░░░░░░░░   55.34 % 
+YAML                     1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+TypeScript               1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Git                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
-Last Updated on 25/01/2026 06:25:38 UTC
 
+ Last Updated on 25/01/2026 23:48:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
