@@ -226,6 +226,10 @@ Wish you a good-looking profile README!
 <!--START_SECTION:waka-->
 
 ```txt
+From: 25 December 2025 - To: 24 January 2026
+
+Total Time: 87 hrs 58 mins
+
 Python       33 hrs 40 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.99 %
 Markdown     22 hrs          🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.81 %
 YAML         19 hrs 52 mins  🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.41 %
