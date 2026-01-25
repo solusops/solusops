@@ -29,7 +29,7 @@ jobs:
           SYMBOL_VERSION: 1
           
 
-      - uses: athul/waka-readme@8539bedb8277066fc9fe1b47d1f9b108eb866494
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Update Waka stats
