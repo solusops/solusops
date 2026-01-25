@@ -168,9 +168,10 @@ Wish you a good-looking profile README!
       </td>    </tr>  </tbody></table></div><div align="center">
 <table style="margin: 0 auto; max-width: 800px; background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>    <tr>      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>    </tr>  </thead>    <tr>      <td align="center" style="border: none;">
-        <picture><img src="https://lmstudio.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flmstudio-app-logo.11b4d746.webp&w=48&q=75" alt="LMStudio" width="50" height="60"/></picture><br>LM Studio      </td>    </tr>  </tbody></table></div></details></picture>
+        <picture><img src="https://lmstudio.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flmstudio-app-logo.11b4d746.webp&w=48&q=75" alt="LMStudio" width="50" height="60"/></picture><br>LM Studio      </td>    </tr>  </tbody></table></div>
+---        
+</details></picture>
 
----
 
 <details><summary> <picture><img src="assets/git_stats.webp"/></picture></summary>
 <br>
