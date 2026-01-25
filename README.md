@@ -180,7 +180,7 @@ Wish you a good-looking profile README!
 <summary> <picture><img src="assets/git_stats.webp"/></picture></summary>
 <br>
 
-  <div align="center">
+<div align="center">
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>    
   <td align="left" width="47%">      
@@ -265,10 +265,10 @@ Last Updated on 25/01/2026 06:25:38 UTC
 
 <!--END_SECTION:waka-->
 
----
-
 </details>
 <div align="center" border="0"><tr><td>
+
+---
 <!--START_SECTION:waka30-->
 
 ```txt
