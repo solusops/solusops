@@ -251,7 +251,7 @@ CSS                      4 mins              █░░░░░░░░░░�
  Last Updated on 25/01/2026 05:43:06 UTC
 <!--END_SECTION:waka-->
 
-<div style="border: 2px solid #333; padding: 10px; border-radius: 8px; background-color: #f9f9f9;">
+<table border="1" cellpadding="10"><tr><td>
 <!--START_SECTION:waka30-->
 
 ```txt
@@ -265,7 +265,7 @@ TypeScript   2 hrs 10 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka30-->
-</div>
+</td></tr></table>
 
 <br>
 
