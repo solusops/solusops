@@ -173,9 +173,12 @@ Wish you a good-looking profile README!
 
 ## <picture><img src="assets/git_stats.webp"/></picture>
 
-<picture>
-<img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&theme=swift&show=reviews,prs_merged,prs_merged_percentage&hide_border=false&border_radius=2" alt="GitHub stats" width="50%"></picture>
-<picture><img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="45%"/></picture></div>
+<p align="center">
+  <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&theme=swift&show=reviews,prs_merged,prs_merged_percentage&hide_border=false&border_radius=2" alt="GitHub stats" width="48%" />
+  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="48%" />
+</p>
+
+<br>
 
 <div align="center">
 <picture>
