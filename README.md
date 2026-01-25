@@ -264,12 +264,10 @@ Text         2 hrs 56 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 TypeScript   2 hrs 10 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.45 %
 ```
 
+---
 <!--END_SECTION:waka30-->
 </td></tr></table>
 
-<br>
-
----
 <!--START_SECTION:shooter-->
 ![GitHub Space Shooter](assets/game.gif)
 <!--END_SECTION:shooter-->
