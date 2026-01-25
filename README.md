@@ -219,9 +219,10 @@ Wish you a good-looking profile README!
 
 ---
 
+<details><summary>
 <picture>
 <img src="assets/code_time.webp" width="80%" alt="Code Time">
-</picture>
+</picture></summary>
 
 <!--START_SECTION:waka-->
 
@@ -253,6 +254,7 @@ Last Updated on 25/01/2026 06:25:38 UTC
 
 ---
 
+</details>
 <div align="center" border="0"><tr><td>
 <!--START_SECTION:waka30-->
 
