@@ -12,7 +12,6 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          MAX_REPOS: 100
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
@@ -30,11 +29,12 @@ jobs:
           SYMBOL_VERSION: 1
           
 
-      # - uses: athul/waka-readme@8539bedb8277066fc9fe1b47d1f9b108eb866494
-      #   with:
-      #     WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
-      #     COMMIT_MESSAGE: Update Waka_api stats
-      #     #IGNORED_LANGUAGES: YAML JSON TOML
-      #     BLOCKS: "⬜🟨🟩"
-      #     TIME_RANGE: last_30_days
-      #     SHOW_TIME: true
+      - uses: athul/waka-readme@8539bedb8277066fc9fe1b47d1f9b108eb866494
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: Update Waka_api stats
+          #IGNORED_LANGUAGES: YAML JSON TOML
+          SECTION_NAME: "waka-30"
+          BLOCKS: "⬜🟨🟩"
+          TIME_RANGE: last_30_days
+          SHOW_TIME: true
