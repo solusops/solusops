@@ -288,6 +288,8 @@ TypeScript   2 hrs 10 mins   🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 <!--END_SECTION:shooter-->
 
+---
+
 <picture> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/></picture>
 
 [<img src="assets/WriteThisDown(Instrumental).webp" width="100%" height="5"/>](https://soundcloud.com/soulchefmusic/write-this-down-instrumental?in=imtorm/sets/aight&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)

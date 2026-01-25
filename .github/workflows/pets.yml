@@ -1,0 +1,38 @@
+name: Pet Gotchi
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Updates daily at 00:00 UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-pet:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Pet 👾
+        uses: ThanhNguyxn/Git-Gotchi@main
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          username: ${{ github.repository_owner }}
+          # Optional: Advanced Configuration
+          timezone: 'Asia/Kolkata'               # Recommended for international users
+          background_theme: 'nature'   # Options: 'minimal', 'cyberpunk', 'nature'
+          show_level: 'true'            # Show level stats on pet
+          
+      - name: Commit & Push 💾
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # move generated image into the repo assets folder so README can reference it
+          mkdir -p assets/dist
+          if [ -f dist/pet.svg ]; then
+            mv dist/pet.svg assets/dist/pet.svg
+          fi
+          # stage all changes (new file + deletions)
+          git add -A
+          git commit -m "Update Profile-Gotchi 👾" || exit 0
+          git push
