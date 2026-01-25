@@ -32,9 +32,10 @@ jobs:
       - uses: athul/waka-readme@8539bedb8277066fc9fe1b47d1f9b108eb866494
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: Update Waka_api stats
+          COMMIT_MESSAGE: Update Waka stats
           #IGNORED_LANGUAGES: YAML JSON TOML
-          SECTION_NAME: "waka-30"
+          
+          SECTION_NAME: waka-30
           BLOCKS: "⬜🟨🟩"
           TIME_RANGE: last_30_days
           SHOW_TIME: true
