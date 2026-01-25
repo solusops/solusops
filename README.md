@@ -224,19 +224,31 @@ Wish you a good-looking profile README!
 </picture>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-517.82%20thousand%20lines%20of%20code-blue?style=flat)
 
-```txt
-From: 25 December 2025 - To: 24 January 2026
+**I'm a Night 🦉** 
 
-Total Time: 87 hrs 58 mins
-
-Python       33 hrs 40 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.99 %
-Markdown     22 hrs          🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.81 %
-YAML         19 hrs 52 mins  🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.41 %
-Text         2 hrs 56 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.32 %
-TypeScript   2 hrs 10 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.45 %
+```text
+🌞 Morning                149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+🌆 Daytime                550 commits         █████████░░░░░░░░░░░░░░░░   37.19 % 
+🌃 Evening                646 commits         ███████████░░░░░░░░░░░░░░   43.68 % 
+🌙 Night                  134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   37.67 % 
+Markdown                 55 mins             ████████░░░░░░░░░░░░░░░░░   33.05 % 
+YAML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Git                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+```
+
+
+ Last Updated on 25/01/2026 05:43:06 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka30-->
