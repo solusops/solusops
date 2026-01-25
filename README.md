@@ -282,13 +282,13 @@ TypeScript   2 hrs 10 mins   🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 <!--END_SECTION:waka30-->
 </td></tr></div>
 
+---
+
 <!--START_SECTION:shooter-->
 
 ![GitHub Space Shooter](assets/game.gif)
 
 <!--END_SECTION:shooter-->
-
----
 
 <picture> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/></picture>
 
