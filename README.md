@@ -252,7 +252,7 @@ CSS                      4 mins              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-<table border="1"><tr><td>
+<table border="1" cellpadding="5" width="100%"><tr><td>
 <!--START_SECTION:waka30-->
 
 ```txt

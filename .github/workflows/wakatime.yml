@@ -36,6 +36,6 @@ jobs:
           #IGNORED_LANGUAGES: YAML JSON TOML
           SHOW_TITLE: true
           SECTION_NAME: waka30
-          BLOCKS: "⬜🟨🟩"
+          BLOCKS: "⬛🔵🟦"
           TIME_RANGE: last_30_days
           SHOW_TIME: true
