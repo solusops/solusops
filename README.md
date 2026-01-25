@@ -174,7 +174,9 @@ Wish you a good-looking profile README!
 </details></picture>
 
 <!-- Git Stats -->
+
 <details>
+
 <summary> <picture><img src="assets/git_stats.webp"/></picture></summary>
 <br>
 <p align="center" width="100%">
@@ -188,7 +190,7 @@ Wish you a good-looking profile README!
 <p align="center">
 <picture>
       <img src="assets/profile-night-rainbow.svg" alt="My year(s)" width="90%" />
-    </picture>
+</picture>
 </p>
 
 <!-- <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
