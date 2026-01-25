@@ -20,7 +20,7 @@ jobs:
           username: ${{ github.repository_owner }}
           # Optional: Advanced Configuration
           timezone: 'Asia/Kolkata'               # Recommended for international users
-          background_theme: 'nature'   # Options: 'minimal', 'cyberpunk', 'nature'
+          background_theme: 'matrix'   # Options: 'minimal', 'cyberpunk', 'nature'
           show_level: 'true'            # Show level stats on pet
           
       - name: Commit & Push 💾

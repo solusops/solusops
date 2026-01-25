@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="80" viewBox="0 0 570 80">
+  <!-- background: remote typing SVG rendered into the SVG via image href -->
+  <image href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F750&width=570&lines=AI+%C3%97+Infrastructure+%C3%97+Security;Building+scalable+AI+systems;Research-driven+Engineering" x="0" y="10" width="570" height="40" preserveAspectRatio="xMidYMid slice"/>
+  <!-- overlay: local image (replace assets/overlay.png with your image). Positioned to overlap the right side -->
+  <image href="assets/overlay.png" x="430" y="0" width="140" height="80" preserveAspectRatio="xMidYMid meet"/>
+</svg>
