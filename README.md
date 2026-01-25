@@ -176,25 +176,23 @@ Wish you a good-looking profile README!
 <!-- Git Stats -->
 
 <details>
-
 <summary> <picture><img src="assets/git_stats.webp"/></picture></summary>
 <br>
 
-<div align="center">
+<p align="center">
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
-  <tr>    
-  <td align="left" width="47%">      
-  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%"/></td>    
-    <td align="right">
-      <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&hide=stars&theme=swift"
+  <td align="right">
+      <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&theme=swift"
       alt="GitHub stats" width="100%"/>
     </td>
-    </tr>
-  </table>
+  <td align="left" width="47%">      
+  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%"/></td>
+  </table></p>
   </details>
-    <picture>
+<div align="center">
+  <picture>
       <img src="assets/profile-night-rainbow.svg" alt="My year(s)" width="90%" />
-    </picture>
+  </picture>
 </div>
 
 <!-- <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
