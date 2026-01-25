@@ -173,12 +173,12 @@ Wish you a good-looking profile README!
 ---
 
 <details><summary> <picture><img src="assets/git_stats.webp"/></picture></summary>
-
+<br>
 <p align="center" width="100%">
   <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&theme=swift&show=reviews,prs_merged,prs_merged_percentage&hide_border=false&border_radius=2" alt="GitHub stats" width="55%" height="320" align="top">
   <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=false&include_all_commits=true&count_private=false" alt="Top languages" width="44%" height="320" align="top"/>
 </p>
-
+</details>
 <div align="center">
 <picture>
       <img src="assets/profile-night-rainbow.svg" alt="My year(s)" width="90%" />
@@ -192,6 +192,7 @@ Wish you a good-looking profile README!
       <img src="assets/yearly_details.svg" alt="Recent languages" width="100%" />
     </picture>
     </td> </tr></table> -->
+
 <br>
 <details><summary><picture><img src ="assets/badges.png" width="25%"></picture></summary><br><p align="center">
 <!-- my-badges start -->
@@ -216,7 +217,6 @@ Wish you a good-looking profile README!
 <!-- my-badges end -->
 </details>
 <br></p>
-</details>
 
 ---
 
