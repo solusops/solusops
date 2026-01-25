@@ -46,7 +46,7 @@ Wish you a good-looking profile README!
 
 ---
 
-# <picture><img src="assets/About.webp"></picture>
+<details><summary> <picture><img src="assets/About.webp"></picture></summary>
 
 <details>
   <summary><picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Short)" alt="Summary (Short)" width="60%"/></picture>
@@ -59,6 +59,7 @@ Wish you a good-looking profile README!
     <picture><img src="assets/whomi_long.svg" alt="Who I am (long)" width="80%" /></picture>
   </p></details>
 
+</details>
 <p align = "center">
   
 [<picture><img align="center" src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&text=Resume&animation=blinking&fontSize=50"/></picture>](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
