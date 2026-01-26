@@ -286,9 +286,7 @@ TypeScript   2 hrs 10 mins   🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ---
 
 <!--START_SECTION:shooter-->
-
 ![GitHub Space Shooter](assets/game.gif)
-
 <!--END_SECTION:shooter-->
 
 <img src="assets/bye.svg" width = "100%">
