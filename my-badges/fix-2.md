@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/DataBoySu/DataBoySu/commit/a4ce7fa4d159802655c734759fbd0b4c3cdfe56e">a4ce7fa</a>: fix down server
-- <a href="https://github.com/DataBoySu/DataBoySu/commit/282c7e10cc4aed8c77c7bfa21061512d9155d5bd">282c7e1</a>: fix down server
+- <a href="https://github.com/DataBoySu/Blue-Blocker/commit/97938e370734a58c52a93ed4fb9e1af218408e62">97938e3</a>: fix lint
+- <a href="https://github.com/DataBoySu/Blue-Blocker/commit/b6e8c644f4ff6a280f1882ba9d5316f9176f7163">b6e8c64</a>: fix lint
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

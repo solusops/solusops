@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/a9898ebe1c4593cc7f3bc7d607c029a47e5fab3f\"><strong>a</strong>9898ebe1c4593cc7f3bc7d607c029a47e5fab3f</a>",
+    "body": "- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/a8ef12f3a712ada867f9a70f4bf4728afac6c097\"><strong>a</strong>8ef12f3a712ada867f9a70f4bf4728afac6c097</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -24,14 +24,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"fix\".",
-    "body": "My favorite commit message words are:\n\n1. fix (used 80 times)\n2. merge (used 48 times)\n3. branch (used 36 times)\n4. v2 (used 35 times)\n5. readme (used 35 times)",
+    "body": "My favorite commit message words are:\n\n1. fix (used 165 times)\n2. update (used 159 times)\n3. merge (used 127 times)\n4. branch (used 89 times)\n5. ci (used 80 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/visualization-playground/commit/5527ed98f57e873fe8bc20f07f489080b9c5d1c3\">5527ed9</a>: fixing fps p1\n- <a href=\"https://github.com/DataBoySu/visualization-playground/commit/3865734908dc7cae0fb886ba633a8057871804aa\">3865734</a>: fixing fps p1\n- <a href=\"https://github.com/DataBoySu/visualization-playground/commit/d397b68bdca8485d6a9734543c31cc82e52fa060\">d397b68</a>: fixing fps p1",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/1672a18a8fd3aa1d50420545e344630f833a0e89\">1672a18</a>: Fix README image rendering\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/39f9e77045548933f5becf9209f0c3be49acd81e\">39f9e77</a>: Fix devvit config\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/8ad0a4362203c611537542542510d5b0f62f28ad\">8ad0a43</a>: Fix devvit config",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
@@ -52,63 +52,63 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/d39ed4663beb4764e6d01786505c09c5c434290a\">d39ed46</a>\n- <a href=\"https://github.com/DataBoySu/databoysu-readme-translator/commit/60a1868e444c06e76696bd4a7d7206a3599d5ff6\">60a1868</a>\n- <a href=\"https://github.com/DataBoySu/databoysu-readme-translator/commit/beece6bbb9bf395ff040a08283fa6b4bc84d0752\">beece6b</a>\n- <a href=\"https://github.com/DataBoySu/MyGPU/commit/7e9c8eb19f18c808be2b9586ed5a6af30e6107bb\">7e9c8eb</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/MyGPU/commit/d24b0d4b9d21b2d598f7912fc91f80310bb97eae\">d24b0d4</a>\n- <a href=\"https://github.com/DataBoySu/MyGPU/commit/2d535efb3099b31cf217dfaf419f30e54faaf5dd\">2d535ef</a>\n- <a href=\"https://github.com/DataBoySu/MyGPU/commit/cae71ab7dd68d21fd04bed903c80df706c137bd3\">cae71ab</a>\n- <a href=\"https://github.com/DataBoySu/MyGPU/commit/4add01d0898b720cda24c7b9caa6f056531991ea\">4add01d</a>\n- <a href=\"https://github.com/DataBoySu/MyGPU/commit/b368601876f81185d8c693566d71439ac794b841\">b368601</a>\n- <a href=\"https://github.com/DataBoySu/MyGPU/commit/f6fb27e72cf53ff2ad87e6a2dc120d5a238ab320\">f6fb27e</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/5dbf7a34d2dd0e8a3ab5512f628a826bc66ae762\">5dbf7a3</a>\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/e805f5fbde9702e3bedab6fd8b8a594db1941f93\">e805f5f</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/a9076a104495dffe0e58c2b176e9525c76d7d669\">a9076a1</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/31c8655bafd50a069199ac3cde54b6bcdf9bf6b2\">31c8655</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/1a42c22ec932305bc22ee929668119e1f1fecf10\">1a42c22</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/2fa1da8247ffa9f9f289253ccbd9cb39c382dd60\">2fa1da8</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/5b4f8f894bb05ec566b85caa3cb6463064d096ce\">5b4f8f8</a>\n- <a href=\"https://github.com/DataBoySu/Blue-Blocker/commit/c5853e247aa36a0beef71aa85b50a779c4059db5\">c5853e2</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/b39a612da1a6b248fa80310dbf50383514d6c645\">b39a612</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/fd9564b3cdf1498e337aa418c004b79863d4c074\">fd9564b</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/cfca988fa28d1078d1caf81a69280015199c5e29\">cfca988</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/4cc0eeccde0c437c3c56cd51653fe0fd8f523357\">4cc0eec</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/a4ce7fa4d159802655c734759fbd0b4c3cdfe56e\">a4ce7fa</a>: fix down server\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/282c7e10cc4aed8c77c7bfa21061512d9155d5bd\">282c7e1</a>: fix down server",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/Blue-Blocker/commit/97938e370734a58c52a93ed4fb9e1af218408e62\">97938e3</a>: fix lint\n- <a href=\"https://github.com/DataBoySu/Blue-Blocker/commit/b6e8c644f4ff6a280f1882ba9d5316f9176f7163\">b6e8c64</a>: fix lint",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "fix-6+",
     "tier": 6,
-    "desc": "I did 9 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/0b809654d6e564c4e604bc78e0a23baeaf109bdd\">0b80965</a>: fix stats down\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/280dd7a7875453b7c0ead5c047b6a9abd802786b\">280dd7a</a>: fix stats down\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/002f542a2aa9b8a81eb9452bca51c3cf11c3da6f\">002f542</a>: fix stats down\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/7c35a16f6987096dc52dc1cd168eaa87115dcc00\">7c35a16</a>: fix stats down\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/2914e97eba6eb6c757d8d940151d1f019b1b6d17\">2914e97</a>: fix stats down\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/9adf592204d98b1f129b9c0b39a09f2791734877\">9adf592</a>: fix stats down\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/36e7a8d2522470948677326b65b1b51e4acbfdab\">36e7a8d</a>: fix stats down\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/dba384e7d716f325fdfce87fb668747fad00f09a\">dba384e</a>: fix stats down\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/a866510750006731da78fac45f638347e678891e\">a866510</a>: fix stats down",
+    "desc": "I did 26 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/ec95890b63cd00bc217023a33a2453560aab0342\">ec95890</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/e7521f14085f280a64daff1a80d57a111f230028\">e7521f1</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/d77d3c0ad20634e9c0c7f3282e619aef6a36249f\">d77d3c0</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/9b7cbb1bb1d9a118ecab11024d28239c476a8d55\">9b7cbb1</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/c9509c741df2ec69bc868018efa897d242ab2949\">c9509c7</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/05a079bb4a337b6ddb0b4c9a37ad7170f1315e0d\">05a079b</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/8d3f33207c294f71a900f465a44b6004a33db3f2\">8d3f332</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/fe50900d356525f1000edbf6eb95a115c880ed49\">fe50900</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/40e8eb6011cdae7e5fd24f3c39c58efa3985e4d7\">40e8eb6</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/0d72d2af63856c0f9f31eb9e7a93df2a75b342ce\">0d72d2a</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/f46e5b77a2b540f16f8c6ead2dc6815cb554d37e\">f46e5b7</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/bdeb9138b6bfb812335c85692da8a58981ec111c\">bdeb913</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/6b31b52f75f9554c18340877f29a0bf19868928e\">6b31b52</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/57e479131584fab53bb9ad6e7247316d65cc4165\">57e4791</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/116fa1924eb0a0861e7e0a1951008b00d73ea3d5\">116fa19</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/96342ff1540601969656c3b01a78e6d2bfb9c252\">96342ff</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/9d39384de5aa61454c854e3f0bc93b8fc28a71c7\">9d39384</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/0b2697b508f7889a10a87bd07918927d261762bb\">0b2697b</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/af99cb70912b81e0d8213983cc0d32c64ea52543\">af99cb7</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/f1af1d0d4fcf6c11fadd2dccd455162f58bbf409\">f1af1d0</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/0a0640b174eef1a7473647000e9abbce3ee69552\">0a0640b</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/eab8b557626df88d1a88b11cf5a3f8c74d32d045\">eab8b55</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/393202cd1b96a94e4aef4e52f2935e7e3b91f856\">393202c</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/3f253b40e704074d0c6505807af00a29a0737102\">3f253b4</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/998788f9a9aa778737dddf0658c00b8f66c7180f\">998788f</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/a8e73dfb10d4436606e1691a0afc8aa3309c4b3f\">a8e73df</a>: fixing empty array being sent to numpy",
     "image": "https://my-badges.github.io/my-badges/fix-6+.png"
   },
   {
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/275d6c1e6df2d938723b19e9a13f03605e8f7488\">275d6c1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/0b04856850dc68f1fec3ff94b56481b1313d12e3\">0b04856</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3825</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★4</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3860</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★9</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "stars-500",
     "tier": 2,
     "desc": "I collected 500 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3825</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★4</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3860</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★9</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-500.png"
   },
   {
     "id": "stars-1000",
     "tier": 3,
     "desc": "I collected 1000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3825</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★4</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3860</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★9</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-1000.png"
   },
   {
     "id": "stars-2000",
     "tier": 4,
     "desc": "I collected 2000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3825</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★4</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3860</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★9</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-2000.png"
   },
   {
@@ -124,5 +124,61 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/MyGPU/commit/eb89f316c025df6b400cecd2c7fd0246b3ad421f\">eb89f31</a>\n- <a href=\"https://github.com/DataBoySu/MyGPU/commit/ba73be6cb3755ed1160a6ebfdabde50271e3b281\">ba73be6</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/6483c57827b2b651778af30c76a15cfcafe037cf\">6483c57827b2b651778af30c76a15cf<strong>cafe</strong>037cf</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/0b04856850dc68f1fec3ff94b56481b1313d12e3\">0b04856</a>: chore: remove .agent from tracking",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/14703f3295537f86a548b9f56ae5141050e1d44f\">14703f3</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/9e37dbebea03b89e4254a08d8dd5189d6c0dfd70\">9e37dbe</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/c8ffab3d2cf595fbf766a278211f0428dd4e4f27\">c8ffab3</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/51f77d4b55463512f7a4393a2c3c3913518b499e\">51f77d4</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/a7e51f115f3836be3b5ef8c084f32fb4e58723f0\">a7e51f1</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/ea7dbc91dba095538c04a79869231dc372d24cdb\">ea7dbc9</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/bd7e17b9e9d19bed9950ee05bfd5b25a92476502\">bd7e17b</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/dc9eff5d3991b4bae3189019dae7194c8e121f1b\">dc9eff5</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/bd7e17b9e9d19bed9950ee05bfd5b25a92476502\">bd7e17b</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/839549a03ed580953ab52140a87d719991c21b05\">839549a</a>: fix contrib wrkflw\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/450b4e6057298fdb94e9093522dc66e21e107211\">450b4e6</a>: fix contrib wrkflw\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/0e8a739a662f3506222d9e8471728713a6a63c11\">0e8a739</a>: fix contrib wrkflw\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/c152a8e01954a113c5b6a32accf3177ba9f754a0\">c152a8e</a>: fix contrib wrkflw\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/f643baf9b47b263ded72ef243864ff99ce01e298\">f643baf</a>: fix contrib wrkflw",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "fix-6",
+    "tier": 5,
+    "desc": "I did 6 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/606b70d35e1cffd7c3aa089ae079678f8924d6d4\">606b70d</a>: fix error\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/ac8cd4fd33f640e4008c8cb4c5054383780ced88\">ac8cd4f</a>: fix error\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/5d1786481336c01953dde3c8286c316c60eed1c9\">5d17864</a>: fix error\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/6ec2b94240a1321a2d30ebf5f344807932d6135d\">6ec2b94</a>: fix error\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/471e76c3f770f3430ef7335c53746904ac569740\">471e76c</a>: fix error\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/01bbd9b45a1569a0bcf23270c11b6deca4e1b64f\">01bbd9b</a>: fix error",
+    "image": "https://my-badges.github.io/my-badges/fix-6.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/freeCodeCamp/freeCodeCamp/issues/64953\">#64953</a>: README Translation Integration Feature\n- <a href=\"https://github.com/junaid-mahmood/nlsh/issues/7\">#7</a>: Gemini model hard-code",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/Blockchain-study/commit/e9addcc324131d3731f680f1ff0011cd760d61ce\">e9addcc</a>\n- <a href=\"https://github.com/DataBoySu/Blockchain-study/commit/cf21092ae33d1559e23192a6636665c15dde1a98\">cf21092</a>\n- <a href=\"https://github.com/DataBoySu/Blockchain-study/commit/ed559cf0feeb880a00a6387a695ab8343e8fd0e2\">ed559cf</a>\n- <a href=\"https://github.com/DataBoySu/Blockchain-study/commit/4b901fc4241b7a5a23f2de12fd80ee67965b7937\">4b901fc</a>\n- <a href=\"https://github.com/DataBoySu/Blockchain-study/commit/c1649265c198b534b3da9bd8f6ada1fecccce19b\">c164926</a>\n- <a href=\"https://github.com/DataBoySu/Blockchain-study/commit/70abf61707d4b05e3e4505ef085a8c2156ab55a7\">70abf61</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]

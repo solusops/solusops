@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/DataBoySu/visualization-playground/commit/5527ed98f57e873fe8bc20f07f489080b9c5d1c3">5527ed9</a>: fixing fps p1
-- <a href="https://github.com/DataBoySu/visualization-playground/commit/3865734908dc7cae0fb886ba633a8057871804aa">3865734</a>: fixing fps p1
-- <a href="https://github.com/DataBoySu/visualization-playground/commit/d397b68bdca8485d6a9734543c31cc82e52fa060">d397b68</a>: fixing fps p1
+- <a href="https://github.com/DataBoySu/StreaxChamp/commit/1672a18a8fd3aa1d50420545e344630f833a0e89">1672a18</a>: Fix README image rendering
+- <a href="https://github.com/DataBoySu/StreaxChamp/commit/39f9e77045548933f5becf9209f0c3be49acd81e">39f9e77</a>: Fix devvit config
+- <a href="https://github.com/DataBoySu/StreaxChamp/commit/8ad0a4362203c611537542542510d5b0f62f28ad">8ad0a43</a>: Fix devvit config
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
