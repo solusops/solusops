@@ -246,15 +246,15 @@ Wish you a good-looking profile README!
 </picture></summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-517.82%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-678.54%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-🌆 Daytime                596 commits         ██████████░░░░░░░░░░░░░░░   38.90 % 
-🌃 Evening                646 commits         ███████████░░░░░░░░░░░░░░   42.17 % 
-🌙 Night                  134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+🌞 Morning                174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+🌆 Daytime                704 commits         ██████████░░░░░░░░░░░░░░░   38.92 % 
+🌃 Evening                771 commits         ███████████░░░░░░░░░░░░░░   42.62 % 
+🌙 Night                  160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 ```
 
 
@@ -262,15 +262,13 @@ Wish you a good-looking profile README!
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 46 mins       ██████████████░░░░░░░░░░░   55.34 % 
-YAML                     1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-TypeScript               1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Git                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+TypeScript               19 mins             ███████████░░░░░░░░░░░░░░   45.50 % 
+HTML                     12 mins             ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+Markdown                 11 mins             ███████░░░░░░░░░░░░░░░░░░   26.66 % 
 ```
 
 
- Last Updated on 25/01/2026 23:48:10 UTC
+ Last Updated on 01/02/2026 23:53:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
