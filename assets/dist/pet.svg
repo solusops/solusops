@@ -6,77 +6,13 @@
       
         <rect x="0" y="0" width="296" height="341" fill="#0d0d0d" rx="12" ry="12"/>
         <g font-family="monospace" font-size="10" fill="#00ff00" opacity="0.3">
-          <text x="10" y="15" opacity="0.45772137525716494">イ</text><text x="10" y="30" opacity="0.1822308537386931">オ</text><text x="10" y="45" opacity="0.45000546257275453">エ</text><text x="10" y="60" opacity="0.12347434761266476">ウ</text><text x="10" y="75" opacity="0.25104819482543206">1</text><text x="10" y="90" opacity="0.3526043615437705">0</text><text x="10" y="105" opacity="0.4276730258644912">力</text><text x="10" y="120" opacity="0.3455952396688994">力</text><text x="29.733333333333334" y="15" opacity="0.28981114896661675">ア</text><text x="29.733333333333334" y="30" opacity="0.39591410156509754">九</text><text x="29.733333333333334" y="45" opacity="0.1226838814771373">七</text><text x="29.733333333333334" y="60" opacity="0.35749893657282383">七</text><text x="29.733333333333334" y="75" opacity="0.5514752449800291">オ</text><text x="29.733333333333334" y="90" opacity="0.5550676721237032">力</text><text x="29.733333333333334" y="105" opacity="0.21456110456597136">七</text><text x="29.733333333333334" y="120" opacity="0.1272511227605603">イ</text><text x="49.46666666666667" y="15" opacity="0.5550868695236956">ア</text><text x="49.46666666666667" y="30" opacity="0.34776863200048624">ウ</text><text x="49.46666666666667" y="45" opacity="0.2623614028244504">0</text><text x="49.46666666666667" y="60" opacity="0.32603405590085954">イ</text><text x="49.46666666666667" y="75" opacity="0.551218891831111">オ</text><text x="49.46666666666667" y="90" opacity="0.16269886376968248">九</text><text x="49.46666666666667" y="105" opacity="0.2741775621689677">0</text><text x="49.46666666666667" y="120" opacity="0.2851033601657762">七</text><text x="69.2" y="15" opacity="0.4157677722163923">七</text><text x="69.2" y="30" opacity="0.3090030373279019">イ</text><text x="69.2" y="45" opacity="0.5346373070532535">九</text><text x="69.2" y="60" opacity="0.560072447211502">オ</text><text x="69.2" y="75" opacity="0.21900385073265774">エ</text><text x="69.2" y="90" opacity="0.36350171860703884">九</text><text x="69.2" y="105" opacity="0.19239055831722532">0</text><text x="69.2" y="120" opacity="0.21404431377869496">七</text><text x="88.93333333333334" y="15" opacity="0.18785477372496065">七</text><text x="88.93333333333334" y="30" opacity="0.3163192957900849">イ</text><text x="88.93333333333334" y="45" opacity="0.27735525314764276">ア</text><text x="88.93333333333334" y="60" opacity="0.14892197175350977">力</text><text x="88.93333333333334" y="75" opacity="0.28042740301491587">七</text><text x="88.93333333333334" y="90" opacity="0.20406331119510993">七</text><text x="88.93333333333334" y="105" opacity="0.13214102678644626">ア</text><text x="88.93333333333334" y="120" opacity="0.407700919272304">力</text><text x="108.66666666666667" y="15" opacity="0.4716065819766613">七</text><text x="108.66666666666667" y="30" opacity="0.538518081038316">エ</text><text x="108.66666666666667" y="45" opacity="0.10239768107135375">1</text><text x="108.66666666666667" y="60" opacity="0.15233746787956362">力</text><text x="108.66666666666667" y="75" opacity="0.34507933084065723">0</text><text x="108.66666666666667" y="90" opacity="0.4423787221036003">ア</text><text x="108.66666666666667" y="105" opacity="0.5185783996724962">ア</text><text x="108.66666666666667" y="120" opacity="0.32792307059047554">0</text><text x="128.4" y="15" opacity="0.11586898819632388">0</text><text x="128.4" y="30" opacity="0.4656713184240089">九</text><text x="128.4" y="45" opacity="0.2359059270631884">ア</text><text x="128.4" y="60" opacity="0.4306711807337005">イ</text><text x="128.4" y="75" opacity="0.4259362767747523">オ</text><text x="128.4" y="90" opacity="0.31781053126994496">エ</text><text x="128.4" y="105" opacity="0.4104042078031862">エ</text><text x="128.4" y="120" opacity="0.3609798042340402">九</text><text x="148.13333333333333" y="15" opacity="0.32636968060728644">0</text><text x="148.13333333333333" y="30" opacity="0.5940797442704358">ア</text><text x="148.13333333333333" y="45" opacity="0.14899791977016855">九</text><text x="148.13333333333333" y="60" opacity="0.25701965333576793">力</text><text x="148.13333333333333" y="75" opacity="0.21068091564805005">九</text><text x="148.13333333333333" y="90" opacity="0.49807898537474216">0</text><text x="148.13333333333333" y="105" opacity="0.22507042409372083">0</text><text x="148.13333333333333" y="120" opacity="0.5698565381916924">エ</text><text x="167.86666666666667" y="15" opacity="0.3104927441203804">ア</text><text x="167.86666666666667" y="30" opacity="0.45617665141647057">1</text><text x="167.86666666666667" y="45" opacity="0.3129979701757559">イ</text><text x="167.86666666666667" y="60" opacity="0.5397768300371172">エ</text><text x="167.86666666666667" y="75" opacity="0.2418708700850514">オ</text><text x="167.86666666666667" y="90" opacity="0.23771883025887888">九</text><text x="167.86666666666667" y="105" opacity="0.543248587876322">1</text><text x="167.86666666666667" y="120" opacity="0.4783687377002821">1</text><text x="187.60000000000002" y="15" opacity="0.25102461965811396">七</text><text x="187.60000000000002" y="30" opacity="0.3969227464260153">エ</text><text x="187.60000000000002" y="45" opacity="0.5268960806364105">エ</text><text x="187.60000000000002" y="60" opacity="0.2385625070075538">オ</text><text x="187.60000000000002" y="75" opacity="0.33113319832920785">1</text><text x="187.60000000000002" y="90" opacity="0.3927477815826348">エ</text><text x="187.60000000000002" y="105" opacity="0.13032732706222697">エ</text><text x="187.60000000000002" y="120" opacity="0.17309637528125735">ア</text><text x="207.33333333333334" y="15" opacity="0.5114114464853008">力</text><text x="207.33333333333334" y="30" opacity="0.5208821535726246">オ</text><text x="207.33333333333334" y="45" opacity="0.5171303283604659">七</text><text x="207.33333333333334" y="60" opacity="0.5672562987606933">ウ</text><text x="207.33333333333334" y="75" opacity="0.1963350938742893">力</text><text x="207.33333333333334" y="90" opacity="0.4198519535731322">0</text><text x="207.33333333333334" y="105" opacity="0.37232838655849354">オ</text><text x="207.33333333333334" y="120" opacity="0.4505747678043813">九</text><text x="227.06666666666666" y="15" opacity="0.3072372540443501">力</text><text x="227.06666666666666" y="30" opacity="0.5728941517288357">1</text><text x="227.06666666666666" y="45" opacity="0.5812278804307572">1</text><text x="227.06666666666666" y="60" opacity="0.490126590248284">イ</text><text x="227.06666666666666" y="75" opacity="0.4745179834192016">ウ</text><text x="227.06666666666666" y="90" opacity="0.4609429244443869">ウ</text><text x="227.06666666666666" y="105" opacity="0.28172791892922777">1</text><text x="227.06666666666666" y="120" opacity="0.11359060216279795">オ</text><text x="246.8" y="15" opacity="0.1850470307839466">1</text><text x="246.8" y="30" opacity="0.28375100332107395">力</text><text x="246.8" y="45" opacity="0.35219542395171266">0</text><text x="246.8" y="60" opacity="0.20051314512089927">1</text><text x="246.8" y="75" opacity="0.11806587174198793">イ</text><text x="246.8" y="90" opacity="0.4929382904300248">九</text><text x="246.8" y="105" opacity="0.3971026146365154">オ</text><text x="246.8" y="120" opacity="0.502011630818821">力</text><text x="266.53333333333336" y="15" opacity="0.2132871096514465">ウ</text><text x="266.53333333333336" y="30" opacity="0.5675788079093469">イ</text><text x="266.53333333333336" y="45" opacity="0.3703670971535725">ア</text><text x="266.53333333333336" y="60" opacity="0.4871794627896444">力</text><text x="266.53333333333336" y="75" opacity="0.38918776363338614">1</text><text x="266.53333333333336" y="90" opacity="0.4984640404803343">エ</text><text x="266.53333333333336" y="105" opacity="0.24124357787814923">九</text><text x="266.53333333333336" y="120" opacity="0.23726001722575665">ウ</text><text x="286.26666666666665" y="15" opacity="0.43472225560091704">力</text><text x="286.26666666666665" y="30" opacity="0.3578531259315165">イ</text><text x="286.26666666666665" y="45" opacity="0.39490609736945503">力</text><text x="286.26666666666665" y="60" opacity="0.4811854073211941">エ</text><text x="286.26666666666665" y="75" opacity="0.35873439224001946">0</text><text x="286.26666666666665" y="90" opacity="0.5484499367396337">0</text><text x="286.26666666666665" y="105" opacity="0.10872081249084567">オ</text><text x="286.26666666666665" y="120" opacity="0.2827895008803455">1</text>
+          <text x="10" y="15" opacity="0.27224219779282144">力</text><text x="10" y="30" opacity="0.27860917772192506">1</text><text x="10" y="45" opacity="0.3107010523220911">0</text><text x="10" y="60" opacity="0.5203310458438589">力</text><text x="10" y="75" opacity="0.548271688576175">ア</text><text x="10" y="90" opacity="0.44623128897066655">1</text><text x="10" y="105" opacity="0.10834116756132797">ウ</text><text x="10" y="120" opacity="0.14657748181783506">1</text><text x="29.733333333333334" y="15" opacity="0.5071353055505984">ア</text><text x="29.733333333333334" y="30" opacity="0.5878861558309608">力</text><text x="29.733333333333334" y="45" opacity="0.4654387315297811">九</text><text x="29.733333333333334" y="60" opacity="0.2705597112402065">イ</text><text x="29.733333333333334" y="75" opacity="0.4691046028531054">力</text><text x="29.733333333333334" y="90" opacity="0.36704633180338664">0</text><text x="29.733333333333334" y="105" opacity="0.10647059209654611">0</text><text x="29.733333333333334" y="120" opacity="0.28436398126281814">九</text><text x="49.46666666666667" y="15" opacity="0.36559312208000827">エ</text><text x="49.46666666666667" y="30" opacity="0.4704076252352324">0</text><text x="49.46666666666667" y="45" opacity="0.48557526249794447">エ</text><text x="49.46666666666667" y="60" opacity="0.3901731598616035">力</text><text x="49.46666666666667" y="75" opacity="0.49454964327896833">七</text><text x="49.46666666666667" y="90" opacity="0.35421110349308926">力</text><text x="49.46666666666667" y="105" opacity="0.11064272190331395">エ</text><text x="49.46666666666667" y="120" opacity="0.5875107685468113">七</text><text x="69.2" y="15" opacity="0.26491868978886535">力</text><text x="69.2" y="30" opacity="0.36392609340916826">力</text><text x="69.2" y="45" opacity="0.4277130470414735">力</text><text x="69.2" y="60" opacity="0.4532090697412432">イ</text><text x="69.2" y="75" opacity="0.5457896364479955">力</text><text x="69.2" y="90" opacity="0.31684284339214175">七</text><text x="69.2" y="105" opacity="0.21202147974753274">ア</text><text x="69.2" y="120" opacity="0.5393848122957086">力</text><text x="88.93333333333334" y="15" opacity="0.5433911055057248">ウ</text><text x="88.93333333333334" y="30" opacity="0.5565295244762617">エ</text><text x="88.93333333333334" y="45" opacity="0.3524282265862655">エ</text><text x="88.93333333333334" y="60" opacity="0.5719495114648256">七</text><text x="88.93333333333334" y="75" opacity="0.5519515006536421">0</text><text x="88.93333333333334" y="90" opacity="0.38204008569484216">エ</text><text x="88.93333333333334" y="105" opacity="0.28153687459564947">力</text><text x="88.93333333333334" y="120" opacity="0.42915969253049546">オ</text><text x="108.66666666666667" y="15" opacity="0.18663398894574626">0</text><text x="108.66666666666667" y="30" opacity="0.3427748012570704">オ</text><text x="108.66666666666667" y="45" opacity="0.46501231371989993">0</text><text x="108.66666666666667" y="60" opacity="0.43231341894231634">七</text><text x="108.66666666666667" y="75" opacity="0.3841867763474498">力</text><text x="108.66666666666667" y="90" opacity="0.14446335498300436">力</text><text x="108.66666666666667" y="105" opacity="0.45392612852777203">ア</text><text x="108.66666666666667" y="120" opacity="0.5913374473153122">1</text><text x="128.4" y="15" opacity="0.45043891268925196">エ</text><text x="128.4" y="30" opacity="0.33370929099373414">九</text><text x="128.4" y="45" opacity="0.22715236895658888">オ</text><text x="128.4" y="60" opacity="0.5464702046247879">1</text><text x="128.4" y="75" opacity="0.18181935491054704">オ</text><text x="128.4" y="90" opacity="0.5918531953507411">エ</text><text x="128.4" y="105" opacity="0.38163664842514733">0</text><text x="128.4" y="120" opacity="0.14843899952894016">七</text><text x="148.13333333333333" y="15" opacity="0.540693207670497">力</text><text x="148.13333333333333" y="30" opacity="0.11788844647777333">力</text><text x="148.13333333333333" y="45" opacity="0.1976917132279247">1</text><text x="148.13333333333333" y="60" opacity="0.30205697239343976">0</text><text x="148.13333333333333" y="75" opacity="0.44362434022297226">エ</text><text x="148.13333333333333" y="90" opacity="0.15850006359423977">イ</text><text x="148.13333333333333" y="105" opacity="0.12544774181574106">エ</text><text x="148.13333333333333" y="120" opacity="0.42379557097166276">ウ</text><text x="167.86666666666667" y="15" opacity="0.15154362641058153">力</text><text x="167.86666666666667" y="30" opacity="0.24607659512252403">七</text><text x="167.86666666666667" y="45" opacity="0.47531837038085367">エ</text><text x="167.86666666666667" y="60" opacity="0.47054204730883065">七</text><text x="167.86666666666667" y="75" opacity="0.5027425444219197">七</text><text x="167.86666666666667" y="90" opacity="0.5863634051353789">1</text><text x="167.86666666666667" y="105" opacity="0.1546759962087876">七</text><text x="167.86666666666667" y="120" opacity="0.18533757416012622">イ</text><text x="187.60000000000002" y="15" opacity="0.19259076846604808">1</text><text x="187.60000000000002" y="30" opacity="0.5636517681345858">0</text><text x="187.60000000000002" y="45" opacity="0.38604748453002324">1</text><text x="187.60000000000002" y="60" opacity="0.4474780331200523">0</text><text x="187.60000000000002" y="75" opacity="0.1870727630452155">イ</text><text x="187.60000000000002" y="90" opacity="0.12222582651363159">イ</text><text x="187.60000000000002" y="105" opacity="0.519157181047213">オ</text><text x="187.60000000000002" y="120" opacity="0.5291181415003253">0</text><text x="207.33333333333334" y="15" opacity="0.12186243920216358">オ</text><text x="207.33333333333334" y="30" opacity="0.37272052428478286">力</text><text x="207.33333333333334" y="45" opacity="0.42063185494027344">九</text><text x="207.33333333333334" y="60" opacity="0.2445638547495628">ア</text><text x="207.33333333333334" y="75" opacity="0.37045595631828787">力</text><text x="207.33333333333334" y="90" opacity="0.49707598360092886">九</text><text x="207.33333333333334" y="105" opacity="0.5432767552043704">0</text><text x="207.33333333333334" y="120" opacity="0.398189902797217">ア</text><text x="227.06666666666666" y="15" opacity="0.106803623065608">エ</text><text x="227.06666666666666" y="30" opacity="0.22685023561794151">七</text><text x="227.06666666666666" y="45" opacity="0.5062462671565934">ア</text><text x="227.06666666666666" y="60" opacity="0.5387119052997132">エ</text><text x="227.06666666666666" y="75" opacity="0.17120140385485896">九</text><text x="227.06666666666666" y="90" opacity="0.32031793777059336">ア</text><text x="227.06666666666666" y="105" opacity="0.585795541717881">オ</text><text x="227.06666666666666" y="120" opacity="0.30814372583418015">七</text><text x="246.8" y="15" opacity="0.514819847174329">九</text><text x="246.8" y="30" opacity="0.1324919925273508">0</text><text x="246.8" y="45" opacity="0.31929260545374905">0</text><text x="246.8" y="60" opacity="0.4211672818721127">0</text><text x="246.8" y="75" opacity="0.1589733557108314">九</text><text x="246.8" y="90" opacity="0.2232129800688544">ア</text><text x="246.8" y="105" opacity="0.2585142717055492">九</text><text x="246.8" y="120" opacity="0.5707244218353889">力</text><text x="266.53333333333336" y="15" opacity="0.495662933962141">オ</text><text x="266.53333333333336" y="30" opacity="0.488275841389447">エ</text><text x="266.53333333333336" y="45" opacity="0.5381848961957739">七</text><text x="266.53333333333336" y="60" opacity="0.4352642465279837">イ</text><text x="266.53333333333336" y="75" opacity="0.21051379347986357">イ</text><text x="266.53333333333336" y="90" opacity="0.3863272314348256">九</text><text x="266.53333333333336" y="105" opacity="0.3732977198385097">0</text><text x="266.53333333333336" y="120" opacity="0.21826847234430594">ア</text><text x="286.26666666666665" y="15" opacity="0.26819633112182817">オ</text><text x="286.26666666666665" y="30" opacity="0.11221048709266104">0</text><text x="286.26666666666665" y="45" opacity="0.1121440928792087">1</text><text x="286.26666666666665" y="60" opacity="0.3184673755796693">ア</text><text x="286.26666666666665" y="75" opacity="0.22455078496472283">1</text><text x="286.26666666666665" y="90" opacity="0.10827873380457245">力</text><text x="286.26666666666665" y="105" opacity="0.580561744719978">九</text><text x="286.26666666666665" y="120" opacity="0.5529559000280778">七</text>
         </g>
         <rect x="5" y="5" width="286" height="331" fill="none" stroke="#00ff00" stroke-width="1" rx="8" ry="8" stroke-opacity="0.3"/>
       
       <!-- Weather Effects (behind pet) -->
       <g class="weather-layer" style="pointer-events: none;">
         
-        <g opacity="0.6">
-          <line x1="10" y1="-10" x2="5" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0s" repeatCount="indefinite"/>
-        </line><line x1="24.8" y1="-10" x2="19.8" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.1s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.1s" repeatCount="indefinite"/>
-        </line><line x1="39.6" y1="-10" x2="34.6" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.2s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.2s" repeatCount="indefinite"/>
-        </line><line x1="54.400000000000006" y1="-10" x2="49.400000000000006" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.30000000000000004s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.30000000000000004s" repeatCount="indefinite"/>
-        </line><line x1="69.2" y1="-10" x2="64.2" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.4s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.4s" repeatCount="indefinite"/>
-        </line><line x1="84" y1="-10" x2="79" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.5s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.5s" repeatCount="indefinite"/>
-        </line><line x1="98.80000000000001" y1="-10" x2="93.80000000000001" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.6000000000000001s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.6000000000000001s" repeatCount="indefinite"/>
-        </line><line x1="113.60000000000001" y1="-10" x2="108.60000000000001" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.7000000000000001s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.7000000000000001s" repeatCount="indefinite"/>
-        </line><line x1="128.4" y1="-10" x2="123.4" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.8s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.8s" repeatCount="indefinite"/>
-        </line><line x1="143.20000000000002" y1="-10" x2="138.20000000000002" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.9s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.9s" repeatCount="indefinite"/>
-        </line><line x1="158" y1="-10" x2="153" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0s" repeatCount="indefinite"/>
-        </line><line x1="172.8" y1="-10" x2="167.8" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.10000000000000009s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.10000000000000009s" repeatCount="indefinite"/>
-        </line><line x1="187.60000000000002" y1="-10" x2="182.60000000000002" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.20000000000000018s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.20000000000000018s" repeatCount="indefinite"/>
-        </line><line x1="202.4" y1="-10" x2="197.4" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.30000000000000004s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.30000000000000004s" repeatCount="indefinite"/>
-        </line><line x1="217.20000000000002" y1="-10" x2="212.20000000000002" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.40000000000000013s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.40000000000000013s" repeatCount="indefinite"/>
-        </line><line x1="232" y1="-10" x2="227" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.5s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.5s" repeatCount="indefinite"/>
-        </line><line x1="246.8" y1="-10" x2="241.8" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.6000000000000001s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.6000000000000001s" repeatCount="indefinite"/>
-        </line><line x1="261.6" y1="-10" x2="256.6" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.7000000000000002s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.7000000000000002s" repeatCount="indefinite"/>
-        </line><line x1="276.40000000000003" y1="-10" x2="271.40000000000003" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.8s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.8s" repeatCount="indefinite"/>
-        </line><line x1="291.2" y1="-10" x2="286.2" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
-          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.9000000000000001s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.9000000000000001s" repeatCount="indefinite"/>
-        </line>
-        </g>
-      
       </g>
       <!-- Evolution Effects (behind pet) -->
       <g class="evolution-layer" style="pointer-events: none;">
@@ -117,16 +53,16 @@
         
     <g transform="translate(226, -25)">
       <!-- Speech bubble -->
-      <rect x="0" y="0" width="69" height="24" rx="10" ry="10" 
+      <rect x="0" y="0" width="139" height="24" rx="10" ry="10" 
             fill="#FFFFFF" stroke="#2d333b" stroke-width="1.5"/>
       <!-- Bubble tail -->
       <polygon points="15,24 20,32 25,24" 
                fill="#FFFFFF" stroke="#2d333b" stroke-width="1.5"/>
       <line x1="16" y1="24" x2="24" y2="24" stroke="#FFFFFF" stroke-width="2"/>
       <!-- Text -->
-      <text x="34.5" y="16" 
+      <text x="69.5" y="16" 
             font-family="'Segoe UI', Arial, sans-serif" font-size="10" 
-            fill="#2d333b" text-anchor="middle">*snore*</text>
+            fill="#2d333b" text-anchor="middle">Do not disturb...</text>
     </g>
   
         <!-- Seasonal Accessory (z-index: above pet) -->
@@ -138,18 +74,18 @@
         ⭐ Lv.33 Adult
       </text>
       <text x="276" y="299" text-anchor="end" font-family="monospace" font-size="11" fill="#00ff00">
-        💤 SLEEPING 🔥7
+        💤 SLEEPING 🔥8
       </text>
       
       <!-- XP Progress Bar -->
       <rect x="20" y="306" width="256" height="8" rx="4" fill="#e0e0e0" stroke="#0288d1" stroke-width="1"/>
-      <rect x="20" y="306" width="179.2" height="8" rx="4" fill="#4fc3f7">
-        <animate attributeName="width" from="0" to="179.2" dur="0.5s" fill="freeze"/>
+      <rect x="20" y="306" width="212.48" height="8" rx="4" fill="#4fc3f7">
+        <animate attributeName="width" from="0" to="212.48" dur="0.5s" fill="freeze"/>
       </rect>
       
       <!-- XP Text -->
       <text x="50%" y="329" text-anchor="middle" font-family="monospace" font-size="9" fill="#00ff00">
-        XP: 10700 / 10890 (70%)
+        XP: 10780 / 10890 (83%)
       </text>
     
       
@@ -185,12 +121,6 @@
         <title>Rainbow: Level 25</title>
         <circle cx="10" cy="10" r="10" fill="rgba(255,255,255,0.9)" stroke="#ddd" stroke-width="1"/>
         <text x="10" y="14" text-anchor="middle" font-size="11">🌈</text>
-      </g>
-    
-      <g transform="translate(130, 0)">
-        <title>Weekend Warrior: Weekend commit</title>
-        <circle cx="10" cy="10" r="10" fill="rgba(255,255,255,0.9)" stroke="#ddd" stroke-width="1"/>
-        <text x="10" y="14" text-anchor="middle" font-size="11">🏖️</text>
       </g>
     
       
