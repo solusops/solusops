@@ -64,7 +64,9 @@ Wish you a good-looking profile README!
 </details>
 <p align = "center">
   
-[<picture><img align="center" src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&text=Resume&animation=blinking&fontSize=50"/></picture>](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
+<a href="https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf">
+<img align="center" src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&text=Resume&animation=blinking&fontSize=50"/>
+</a>
 
 </p>
 
@@ -297,7 +299,5 @@ TypeScript   1 hr 56 mins    🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 <!--END_SECTION:shooter-->
 
 <img src="assets/bye.svg" width = "100%">
-
-<picture> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/></picture>
 
 [<img src="assets/WriteThisDown(Instrumental).webp" width="100%" height="5"/>](https://soundcloud.com/soulchefmusic/write-this-down-instrumental?in=imtorm/sets/aight&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
