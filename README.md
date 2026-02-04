@@ -62,10 +62,10 @@ Wish you a good-looking profile README!
   </p></details>
 
 </details>
+
 <p align = "center">
-  
 <a href="https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf">
-<img align="center" src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&text=Resume&animation=blinking&fontSize=50"/>
+<img width= "30%" src="assets/resume.png" alt="Resume"/>
 </a>
 
 </p>
