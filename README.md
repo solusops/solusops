@@ -39,9 +39,11 @@ Wish you a good-looking profile README!
 <table width="100%" align="center">  
   <tr>
     <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;width:40%;">
-      <picture><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Quotes" style="display:block;width:100%;max-width:640px;border:6px solid #000;" /></picture></td>
+      <picture><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Quotes" align="center"/></picture></td>
     <td align="right" style="border:none;padding:0;">
-      <picture><img src="https://github-readme-streak-stats-gamma-ten-44.vercel.app?user=DataBoySu&theme=solarized_light&hide_border=true" alt="Streak" style="border:6px solid #000;display:inline-block;" /></picture>
+      <picture>
+        <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=moltack&hide_border=true&include_all_commits=false&count_private=false" width="80%" align="center" alt="Top languages" height="300"/>
+      </picture>
     </td>  
   </tr>
 </table>

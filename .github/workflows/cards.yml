@@ -1,0 +1,39 @@
+name: Summary-Cards
+
+on:
+  schedule: # execute every 24 hours
+    - cron: "* */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 8
+          EXCLUDE: ""
+          AUTO_PUSH: false
+      - name: Move cards to assets
+        run: |
+          mkdir -p assets
+          mv profile-summary-card-output/* assets/ || true
+          rm -rf profile-summary-card-output
+      - name: Commit and push changes
+        run: |
+          git add assets/
+          if ! git diff --staged --quiet; then
+            git commit -m "Update profile summary cards"
+            git push
+          else
+            echo "No changes to commit"
+          fi
