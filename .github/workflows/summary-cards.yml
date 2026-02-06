@@ -30,6 +30,8 @@ jobs:
           rm -rf profile-summary-card-output
       - name: Commit and push changes
         run: |
+          git config --global user.email "banner-bot@users.noreply.github.com"
+          git config --global user.name "Banner-Bot"
           git add assets/
           if ! git diff --staged --quiet; then
             git commit -m "Update profile summary cards"
