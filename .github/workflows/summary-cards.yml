@@ -26,7 +26,7 @@ jobs:
       - name: Move cards to assets
         run: |
           mkdir -p assets
-          mv profile-summary-card-output/* assets/ || true
+          mv profile-summary-card-output/ assets/ || true
           rm -rf profile-summary-card-output
       - name: Commit and push changes
         run: |
