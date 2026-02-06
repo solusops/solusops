@@ -192,7 +192,7 @@ Wish you a good-looking profile README!
       alt="GitHub stats" width="100%"/>
     </td>
   <td align="left" width="47%">      
-  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=moltack&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%"/></td>
+  <img src="https://github-readme-streak-stats-gamma-ten-44.vercel.app?user=DataBoySu&theme=solarized_light&hide_border=true" alt="Top languages" width="100%"/></td>
   </table></p>
   </details>
 <div align="center">
