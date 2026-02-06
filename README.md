@@ -42,7 +42,7 @@ Wish you a good-looking profile README!
       <picture><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Quotes" align="center"/></picture></td>
     <td align="right">
       <picture>
-        <img src="assets/profile-summary-card-output/solarized/1-repos-per-language.svg" width="500" align="center" alt="Top languages"/>
+        <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false" width="100%" align="center" alt="Top languages"/>
       </picture>
     </td>  
   </tr>
