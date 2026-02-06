@@ -187,11 +187,11 @@ Wish you a good-looking profile README!
 
 <p align="center">
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <td>
-      <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&theme=moltack&show=reviews&hide_border=false&border_radius=2" alt="GitHub stats"/>
+  <td><picture>
+      <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&theme=moltack&show=reviews&hide_border=false&border_radius=2" alt="GitHub stats"/></picture>
     </td>
-  <td width="52%">
-  <img src="https://github-readme-streak-stats-gamma-ten-44.vercel.app?user=DataBoySu&theme=solarized_light&hide_border=true" alt="Top languages"/></td>
+  <td width="52%"><picture>
+  <img src="https://github-readme-streak-stats-gamma-ten-44.vercel.app?user=DataBoySu&theme=solarized_light&hide_border=true" alt="Top languages"/></picture></td>
   </table></p>
   </details>
 <div align="center">
