@@ -1,0 +1,32 @@
+# GitHub Sponsors - Replace with your GitHub username if you have GitHub Sponsors enabled
+github: # e.g., DataBoySu
+
+# Patreon - Replace with your Patreon username or full URL
+patreon: # e.g., yourpatreonusername
+
+# Ko-fi (Buy Me a Coffee) - Replace with your Ko-fi username
+ko_fi: # e.g., yourkofiusername
+
+# Open Collective - Replace with your Open Collective slug
+open_collective: # e.g., yourproject
+
+# Liberapay - Replace with your Liberapay username
+liberapay: # e.g., yourliberapayusername
+
+# IssueHunt - Replace with your IssueHunt username
+issuehunt: # e.g., yourissuehuntusername
+
+# Otechie - Replace with your Otechie username
+otechie: # e.g., yourotechieusername
+
+# Tidelift - For open source maintainers, replace with your Tidelift URL
+tidelift: # e.g., pypi/your-package
+
+# Community Bridge - For Linux Foundation projects
+community_bridge: # e.g., yourproject
+
+# Custom sponsorship URLs - Add any other platforms or custom links
+custom:
+  - # e.g., https://www.paypal.me/yourpaypal
+  - # e.g., https://www.buymeacoffee.com/yourbmc
+  - # e.g., https://donate.stripe.com/yourstripe
