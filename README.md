@@ -42,7 +42,7 @@ Wish you a good-looking profile README!
       <picture><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Quotes" align="center"/></picture></td>
     <td align="right" style="border:none;padding:0;">
       <picture>
-        <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=moltack&hide_border=true&include_all_commits=false&count_private=false" width="80%" align="center" alt="Top languages" height="300"/>
+        <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=moltack&hide_border=true&include_all_commits=false&count_private=false" width="100%" align="center" alt="Top languages"/>
       </picture>
     </td>  
   </tr>
