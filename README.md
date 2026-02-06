@@ -190,7 +190,7 @@ Wish you a good-looking profile README!
   <td>
       <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&theme=moltack&show=reviews&hide_border=false&border_radius=2" alt="GitHub stats"/>
     </td>
-  <td width="55%">
+  <td width="50%">
   <img src="https://github-readme-streak-stats-gamma-ten-44.vercel.app?user=DataBoySu&theme=solarized_light&hide_border=true" alt="Top languages"/></td>
   </table></p>
   </details>
