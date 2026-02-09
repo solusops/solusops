@@ -296,7 +296,7 @@ JSON         40 mins         🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ---
 
 <!--START_SECTION:shooter-->
-![GitHub Space Shooter](assets/game.gif)
+![GitHub Space Shooter](assets/game.webp)
 <!--END_SECTION:shooter-->
 
 <img src="assets/bye.svg" width = "100%">
