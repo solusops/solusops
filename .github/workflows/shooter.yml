@@ -1,4 +1,4 @@
-name: commit_shoot
+name: Contrib-Shooter
 
 on:
   schedule:
@@ -14,8 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: DataBoySu/gh-space-shooter@main
+      - uses: czl9707/gh-space-shooter@v1
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'assets/game.gif'
+          github-token: ${{ secrets.GH_TOKEN }}
+          output-path: 'assets/game.webp'
           strategy: 'random'
