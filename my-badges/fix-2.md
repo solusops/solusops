@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/DataBoySu/Blue-Blocker/commit/97938e370734a58c52a93ed4fb9e1af218408e62">97938e3</a>: fix lint
-- <a href="https://github.com/DataBoySu/Blue-Blocker/commit/b6e8c644f4ff6a280f1882ba9d5316f9176f7163">b6e8c64</a>: fix lint
+- <a href="https://github.com/DataBoySu/StreaxChamp/commit/ca1bf793c79ad7a2a0a8c733a0ec237e5abaa329">ca1bf79</a>: Fix GlobalDashboard timestamps and remove window.open fallback
+- <a href="https://github.com/DataBoySu/StreaxChamp/commit/8ea751df94d2e19fcb4d117cbc6653442ed15ca8">8ea751d</a>: FIX: Timestamp field name mismatch - use 'timestamp' not 'ts'
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
