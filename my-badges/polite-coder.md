@@ -4,6 +4,7 @@
 
 I use words like "thanks" and "please" in my issues:
 
+- <a href="https://github.com/astral-sh/uv/issues/18641">#18641</a>: uv persistent global cache on windows
 - <a href="https://github.com/freeCodeCamp/freeCodeCamp/issues/64953">#64953</a>: README Translation Integration Feature
 - <a href="https://github.com/junaid-mahmood/nlsh/issues/7">#7</a>: Gemini model hard-code
 
