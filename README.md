@@ -25,13 +25,13 @@ could be a profile README that fits you better than this one.
 
 Wish you a good-looking profile README!
 
-                                   —— Su (https://github.com/DataBoySu)
+                                   —— Su (https://github.com/solusops)
 
 -->
 
 <p align="center"><a href="https://soundcloud.com/soulchefmusic/write-this-down-instrumental?in=imtorm/sets/aight&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="assets/banner.png" alt="banner" width="100%"/></a></p>
 <p align="center"><picture><img src="assets/github-header-banner.png" alt="Hi! I am Anshuman" width="100%"/></picture></p>
-<p align="left"><picture> <img src="https://komarev.com/ghpvc/?username=databoysu&label=Profile%20Views&color=green&style=for-the-badge&abbreviated=true" alt="databoysu"/></picture> </p>
+<p align="left"><picture> <img src="https://komarev.com/ghpvc/?username=solusops&label=Profile%20Views&color=green&style=for-the-badge&abbreviated=true" alt="solusops"/></picture> </p>
 <p align="center"><picture><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F750&width=570&lines=Python+%C3%97+AI+%C3%97+Open-Source;Building+scalable+AI+systems;Research-driven+Engineering" alt="Research-Driven Engineering"/></picture></p>
 
 ---
@@ -42,7 +42,7 @@ Wish you a good-looking profile README!
       <picture><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Quotes" align="center"/></picture></td>
     <td align="right">
       <picture>
-        <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false" width="100%" align="center" alt="Top languages"/>
+        <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=solusops&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false" width="100%" align="center" alt="Top languages"/>
       </picture>
     </td>  
   </tr>
@@ -66,7 +66,7 @@ Wish you a good-looking profile README!
 </details>
 
 <p align = "center">
-<a href="https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf">
+<a href="https://raw.githubusercontent.com/solusops/Resume/main/su_resume.pdf">
 <img width= "30%" src="assets/resume.png" alt="Resume"/>
 </a>
 
@@ -192,10 +192,10 @@ Wish you a good-looking profile README!
 <p align="center">
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <td><picture>
-      <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&theme=moltack&show=reviews&hide_border=false&border_radius=2" alt="GitHub stats"/></picture>
+      <img src="https://readme-stats-peach-gamma.vercel.app/api?username=solusops&theme=moltack&show=reviews&hide_border=false&border_radius=2" alt="GitHub stats"/></picture>
     </td>
   <td width="52%"><picture>
-  <img src="https://github-readme-streak-stats-gamma-ten-44.vercel.app?user=DataBoySu&theme=solarized_light&hide_border=true" alt="Top languages"/></picture></td>
+  <img src="https://github-readme-streak-stats-gamma-ten-44.vercel.app?user=solusops&theme=solarized_light&hide_border=true" alt="Top languages"/></picture></td>
   </table></p>
   </details>
 <div align="center">
