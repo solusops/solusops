@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - uses: DataBoySu/github-profile-3d-contrib@test
+      - uses: SolusOps/github-profile-3d-contrib@test
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: DataBoySu
+          USERNAME: SolusOps
           SETTING_JSON: assets/settings.json
           OUTPUT_PATH: assets/
 
