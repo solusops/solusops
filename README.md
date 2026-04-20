@@ -75,11 +75,9 @@ Wish you a good-looking profile README!
 <p align="center"><a href="https://linkedin.com/in/anshumansingh2023"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <picture> <a href="https://bsky.app/profile/-"></a> <img src="https://img.shields.io/badge/Bluesky-808080?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Bluesky (disabled)"/></picture>
   <picture> <a href="https://x.com/-"></a> <img src="https://img.shields.io/badge/Twitter-808080?style=for-the-badge&logo=x&logoColor=white" alt="X (disabled)"/></picture>
-<picture> <a href="https://kaggle.com/anshumansingh001"></a> <img src="https://img.shields.io/badge/Kaggle-808080?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle (disabled)"/></picture>
-<picture>
-  <a href="https://www.hackerrank.com/anshumanr434"></a>
-    <img src="https://img.shields.io/badge/-Hackerrank-808080?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank (disabled)"/>
-  </picture>
+  <picture> <a href="https://kaggle.com/anshumansingh001"></a> <img src="https://img.shields.io/badge/Kaggle-808080?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle (disabled)"/></picture>
+  <picture> <a href="https://huggingface.co/SolusOps"><img src = "https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></picture>
+  <picture> <a href="https://www.hackerrank.com/anshumanr434"></a> <img src="https://img.shields.io/badge/-Hackerrank-808080?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank (disabled)"/> </picture>
 <br>
 
 <table width="100%" style="border:none;">
