@@ -10,140 +10,140 @@
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/ab6b4ead92c17e17ccd9938466f08f7de6a3f3cc\"><strong>ab</strong>6b4ead92c17e17ccd9938466f08f7de6a3f3cc</a>",
+    "body": "- <a href=\"https://github.com/solusops/solusops/commit/ab6b4ead92c17e17ccd9938466f08f7de6a3f3cc\"><strong>ab</strong>6b4ead92c17e17ccd9938466f08f7de6a3f3cc</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "delorean",
     "tier": 0,
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/Resume/commit/2f84a22430cb3e9d17e46cd49e98f8155853aa89\">2f84a22</a>\n- <a href=\"https://github.com/DataBoySu/Resume/commit/025d40429780425fb9973f24c5d1f2208f74d63c\">025d404</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/Resume/commit/2f84a22430cb3e9d17e46cd49e98f8155853aa89\">2f84a22</a>\n- <a href=\"https://github.com/solusops/Resume/commit/025d40429780425fb9973f24c5d1f2208f74d63c\">025d404</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 186 times)\n2. fix (used 183 times)\n3. merge (used 120 times)\n4. ci (used 89 times)\n5. branch (used 84 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 194 times)\n2. fix (used 191 times)\n3. merge (used 120 times)\n4. ci (used 89 times)\n5. branch (used 84 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/1672a18a8fd3aa1d50420545e344630f833a0e89\">1672a18</a>: Fix README image rendering\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/39f9e77045548933f5becf9209f0c3be49acd81e\">39f9e77</a>: Fix devvit config\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/8ad0a4362203c611537542542510d5b0f62f28ad\">8ad0a43</a>: Fix devvit config",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/TraceFix-RL/commit/8486244458675d5244536bfba47164918c47df81\">8486244</a>: fix reward hacking\n- <a href=\"https://github.com/solusops/TraceFix-RL/commit/d68edbe6abb8d3d06e0e06c17cac56b250b30e0e\">d68edbe</a>: fixing state machine\n- <a href=\"https://github.com/solusops/TraceFix-RL/commit/f2f7107276464abe0f6f7a59df2ab6485e007533\">f2f7107</a>: fixing looping/crash",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/databoysu-readme-translator/commit/37981ffc2c6d6fc5846ae3b41cb92c81d12cd882\">37981ff</a>: fix error\n- <a href=\"https://github.com/DataBoySu/databoysu-readme-translator/commit/10aaf26155fca808ddc4cc5cf336db751e048296\">10aaf26</a>: fix error\n- <a href=\"https://github.com/DataBoySu/databoysu-readme-translator/commit/a9bee8883a1754418c854dccd0a99fbb4a3759a3\">a9bee88</a>: fix lint\n- <a href=\"https://github.com/DataBoySu/databoysu-readme-translator/commit/f491cbe2e0702fe7b2c2f5ae16512b7187fb98cf\">f491cbe</a>: fix repo name",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/databoysu-readme-translator/commit/37981ffc2c6d6fc5846ae3b41cb92c81d12cd882\">37981ff</a>: fix error\n- <a href=\"https://github.com/solusops/databoysu-readme-translator/commit/10aaf26155fca808ddc4cc5cf336db751e048296\">10aaf26</a>: fix error\n- <a href=\"https://github.com/solusops/databoysu-readme-translator/commit/a9bee8883a1754418c854dccd0a99fbb4a3759a3\">a9bee88</a>: fix lint\n- <a href=\"https://github.com/solusops/databoysu-readme-translator/commit/f491cbe2e0702fe7b2c2f5ae16512b7187fb98cf\">f491cbe</a>: fix repo name",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/d69c263e2ca8855d936ece6cc541937dca797be7\">d69c263</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/a2dfb19638e1f4d259c93d8cf68facb978ec632c\">a2dfb19</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/4a153089fdf81cf07a93ff3db151722c8bff6595\">4a15308</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/4bfd1f5bff300beeba751422cd44f0189f681331\">4bfd1f5</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/1e6bb4efd24b778fa1aa2d2e3c6862164c148b49\">1e6bb4e</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/a8db0e04139497ac14aa6b34bc0c2a78c277e289\">a8db0e0</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/TraceFix-RL/commit/248cfea2361411d1cf282d53a217f8d65b248829\">248cfea</a>\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/d69c263e2ca8855d936ece6cc541937dca797be7\">d69c263</a>\n- <a href=\"https://github.com/solusops/solusops/commit/a2dfb19638e1f4d259c93d8cf68facb978ec632c\">a2dfb19</a>\n- <a href=\"https://github.com/solusops/solusops/commit/4a153089fdf81cf07a93ff3db151722c8bff6595\">4a15308</a>\n- <a href=\"https://github.com/solusops/solusops/commit/4bfd1f5bff300beeba751422cd44f0189f681331\">4bfd1f5</a>\n- <a href=\"https://github.com/solusops/solusops/commit/1e6bb4efd24b778fa1aa2d2e3c6862164c148b49\">1e6bb4e</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/f36bf4265c0f3c0f899774b1becf007c269199a9\">f36bf42</a>\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/3379e66da6c8834d4c1a3e65aea02b6b442a716d\">3379e66</a>\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/bcfd0a192b8fcfee85e781d503ffe44dbef06587\">bcfd0a1</a>\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/3fea03c0f263bd22e1bc65e3c2cbbaaa70f52e4c\">3fea03c</a>\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/e56acbb8f0d1d4d7810e96d5ac2a3c24926159b4\">e56acbb</a>\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/e8161c78f6b7c1605b33aad5621124263b616208\">e8161c7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/AML-RL_Env/commit/dfd1faa9571c7d63d4848e3d29be2346c19f12f1\">dfd1faa</a>\n- <a href=\"https://github.com/solusops/AML-RL_Env/commit/a4c032ab36a29e203d9fbabfbcb61f154b093b42\">a4c032a</a>\n- <a href=\"https://github.com/solusops/AML-RL_Env/commit/bfed85f00595d256740a397778ccb89bc7004d60\">bfed85f</a>\n- <a href=\"https://github.com/solusops/AML-RL_Env/commit/1a65601cab900d0174f42cc1a36ba775aebeae59\">1a65601</a>\n- <a href=\"https://github.com/solusops/AML-RL_Env/commit/7ae8bca3e6800d07a945ef53c87e3ab12dffe4f0\">7ae8bca</a>\n- <a href=\"https://github.com/solusops/AML-RL_Env/commit/2a6078ac51ee4f7737274886c4291d6256821a05\">2a6078a</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/ca1bf793c79ad7a2a0a8c733a0ec237e5abaa329\">ca1bf79</a>: Fix GlobalDashboard timestamps and remove window.open fallback\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/8ea751df94d2e19fcb4d117cbc6653442ed15ca8\">8ea751d</a>: FIX: Timestamp field name mismatch - use 'timestamp' not 'ts'",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/AML-RL_Env/commit/7ae8bca3e6800d07a945ef53c87e3ab12dffe4f0\">7ae8bca</a>: fix issues\n- <a href=\"https://github.com/solusops/AML-RL_Env/commit/2a6078ac51ee4f7737274886c4291d6256821a05\">2a6078a</a>: fix huggingface issues",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "fix-6+",
     "tier": 6,
     "desc": "I did 26 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/ec95890b63cd00bc217023a33a2453560aab0342\">ec95890</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/e7521f14085f280a64daff1a80d57a111f230028\">e7521f1</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/d77d3c0ad20634e9c0c7f3282e619aef6a36249f\">d77d3c0</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/9b7cbb1bb1d9a118ecab11024d28239c476a8d55\">9b7cbb1</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/c9509c741df2ec69bc868018efa897d242ab2949\">c9509c7</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/05a079bb4a337b6ddb0b4c9a37ad7170f1315e0d\">05a079b</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/8d3f33207c294f71a900f465a44b6004a33db3f2\">8d3f332</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/fe50900d356525f1000edbf6eb95a115c880ed49\">fe50900</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/40e8eb6011cdae7e5fd24f3c39c58efa3985e4d7\">40e8eb6</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/0d72d2af63856c0f9f31eb9e7a93df2a75b342ce\">0d72d2a</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/f46e5b77a2b540f16f8c6ead2dc6815cb554d37e\">f46e5b7</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/bdeb9138b6bfb812335c85692da8a58981ec111c\">bdeb913</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/6b31b52f75f9554c18340877f29a0bf19868928e\">6b31b52</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/57e479131584fab53bb9ad6e7247316d65cc4165\">57e4791</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/116fa1924eb0a0861e7e0a1951008b00d73ea3d5\">116fa19</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/96342ff1540601969656c3b01a78e6d2bfb9c252\">96342ff</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/9d39384de5aa61454c854e3f0bc93b8fc28a71c7\">9d39384</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/0b2697b508f7889a10a87bd07918927d261762bb\">0b2697b</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/af99cb70912b81e0d8213983cc0d32c64ea52543\">af99cb7</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/f1af1d0d4fcf6c11fadd2dccd455162f58bbf409\">f1af1d0</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/0a0640b174eef1a7473647000e9abbce3ee69552\">0a0640b</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/eab8b557626df88d1a88b11cf5a3f8c74d32d045\">eab8b55</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/393202cd1b96a94e4aef4e52f2935e7e3b91f856\">393202c</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/3f253b40e704074d0c6505807af00a29a0737102\">3f253b4</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/998788f9a9aa778737dddf0658c00b8f66c7180f\">998788f</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/a8e73dfb10d4436606e1691a0afc8aa3309c4b3f\">a8e73df</a>: fixing empty array being sent to numpy",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/ec95890b63cd00bc217023a33a2453560aab0342\">ec95890</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/e7521f14085f280a64daff1a80d57a111f230028\">e7521f1</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/d77d3c0ad20634e9c0c7f3282e619aef6a36249f\">d77d3c0</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/9b7cbb1bb1d9a118ecab11024d28239c476a8d55\">9b7cbb1</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/c9509c741df2ec69bc868018efa897d242ab2949\">c9509c7</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/05a079bb4a337b6ddb0b4c9a37ad7170f1315e0d\">05a079b</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/8d3f33207c294f71a900f465a44b6004a33db3f2\">8d3f332</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/fe50900d356525f1000edbf6eb95a115c880ed49\">fe50900</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/40e8eb6011cdae7e5fd24f3c39c58efa3985e4d7\">40e8eb6</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/0d72d2af63856c0f9f31eb9e7a93df2a75b342ce\">0d72d2a</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/f46e5b77a2b540f16f8c6ead2dc6815cb554d37e\">f46e5b7</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/bdeb9138b6bfb812335c85692da8a58981ec111c\">bdeb913</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/6b31b52f75f9554c18340877f29a0bf19868928e\">6b31b52</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/57e479131584fab53bb9ad6e7247316d65cc4165\">57e4791</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/116fa1924eb0a0861e7e0a1951008b00d73ea3d5\">116fa19</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/96342ff1540601969656c3b01a78e6d2bfb9c252\">96342ff</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/9d39384de5aa61454c854e3f0bc93b8fc28a71c7\">9d39384</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/0b2697b508f7889a10a87bd07918927d261762bb\">0b2697b</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/af99cb70912b81e0d8213983cc0d32c64ea52543\">af99cb7</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/f1af1d0d4fcf6c11fadd2dccd455162f58bbf409\">f1af1d0</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/0a0640b174eef1a7473647000e9abbce3ee69552\">0a0640b</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/eab8b557626df88d1a88b11cf5a3f8c74d32d045\">eab8b55</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/393202cd1b96a94e4aef4e52f2935e7e3b91f856\">393202c</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/3f253b40e704074d0c6505807af00a29a0737102\">3f253b4</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/998788f9a9aa778737dddf0658c00b8f66c7180f\">998788f</a>: fixing empty array being sent to numpy\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/a8e73dfb10d4436606e1691a0afc8aa3309c4b3f\">a8e73df</a>: fixing empty array being sent to numpy",
     "image": "https://my-badges.github.io/my-badges/fix-6+.png"
   },
   {
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/0b04856850dc68f1fec3ff94b56481b1313d12e3\">0b04856</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/0b04856850dc68f1fec3ff94b56481b1313d12e3\">0b04856</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3913</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★9</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3931</a>\n* <a href=\"https://github.com/solusops/MyGPU\">solusops/MyGPU: ★9</a>\n* <a href=\"https://github.com/solusops/databoysu-readme-translator\">solusops/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "stars-500",
     "tier": 2,
     "desc": "I collected 500 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3913</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★9</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3931</a>\n* <a href=\"https://github.com/solusops/MyGPU\">solusops/MyGPU: ★9</a>\n* <a href=\"https://github.com/solusops/databoysu-readme-translator\">solusops/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-500.png"
   },
   {
     "id": "stars-1000",
     "tier": 3,
     "desc": "I collected 1000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3913</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★9</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3931</a>\n* <a href=\"https://github.com/solusops/MyGPU\">solusops/MyGPU: ★9</a>\n* <a href=\"https://github.com/solusops/databoysu-readme-translator\">solusops/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-1000.png"
   },
   {
     "id": "stars-2000",
     "tier": 4,
     "desc": "I collected 2000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3913</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★9</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3931</a>\n* <a href=\"https://github.com/solusops/MyGPU\">solusops/MyGPU: ★9</a>\n* <a href=\"https://github.com/solusops/databoysu-readme-translator\">solusops/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-2000.png"
   },
   {
     "id": "thumbs-up-10",
     "tier": 1,
     "desc": "I got more than 10 thumbs up.",
-    "body": "* <a href=\"https://github.com/community/community/discussions/189268#discussioncomment-16101718\">26 👍</a>\n* <a href=\"https://github.com/anuraghazra/github-readme-stats/issues/4712\">17 👍</a>",
+    "body": "* <a href=\"https://github.com/community/community/discussions/189268#discussioncomment-16101718\">27 👍</a>\n* <a href=\"https://github.com/anuraghazra/github-readme-stats/issues/4712\">17 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/ca1389988bf49024eecf65a0d59ef3e90a3688d8\">ca13899</a>\n- <a href=\"https://github.com/DataBoySu/MyGPU/commit/eb89f316c025df6b400cecd2c7fd0246b3ad421f\">eb89f31</a>\n- <a href=\"https://github.com/DataBoySu/MyGPU/commit/ba73be6cb3755ed1160a6ebfdabde50271e3b281\">ba73be6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/ca1389988bf49024eecf65a0d59ef3e90a3688d8\">ca13899</a>\n- <a href=\"https://github.com/solusops/MyGPU/commit/eb89f316c025df6b400cecd2c7fd0246b3ad421f\">eb89f31</a>\n- <a href=\"https://github.com/solusops/MyGPU/commit/ba73be6cb3755ed1160a6ebfdabde50271e3b281\">ba73be6</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
     "id": "cafe-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"cafe\" once.",
-    "body": "- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/6483c57827b2b651778af30c76a15cfcafe037cf\">6483c57827b2b651778af30c76a15cf<strong>cafe</strong>037cf</a>",
+    "body": "- <a href=\"https://github.com/solusops/StreaxChamp/commit/6483c57827b2b651778af30c76a15cfcafe037cf\">6483c57827b2b651778af30c76a15cf<strong>cafe</strong>037cf</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/0b04856850dc68f1fec3ff94b56481b1313d12e3\">0b04856</a>: chore: remove .agent from tracking",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/0b04856850dc68f1fec3ff94b56481b1313d12e3\">0b04856</a>: chore: remove .agent from tracking",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/14703f3295537f86a548b9f56ae5141050e1d44f\">14703f3</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/9e37dbebea03b89e4254a08d8dd5189d6c0dfd70\">9e37dbe</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/c8ffab3d2cf595fbf766a278211f0428dd4e4f27\">c8ffab3</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/51f77d4b55463512f7a4393a2c3c3913518b499e\">51f77d4</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/a7e51f115f3836be3b5ef8c084f32fb4e58723f0\">a7e51f1</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/ea7dbc91dba095538c04a79869231dc372d24cdb\">ea7dbc9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/solusops/commit/14703f3295537f86a548b9f56ae5141050e1d44f\">14703f3</a>\n- <a href=\"https://github.com/solusops/solusops/commit/9e37dbebea03b89e4254a08d8dd5189d6c0dfd70\">9e37dbe</a>\n- <a href=\"https://github.com/solusops/solusops/commit/c8ffab3d2cf595fbf766a278211f0428dd4e4f27\">c8ffab3</a>\n- <a href=\"https://github.com/solusops/solusops/commit/51f77d4b55463512f7a4393a2c3c3913518b499e\">51f77d4</a>\n- <a href=\"https://github.com/solusops/solusops/commit/a7e51f115f3836be3b5ef8c084f32fb4e58723f0\">a7e51f1</a>\n- <a href=\"https://github.com/solusops/solusops/commit/ea7dbc91dba095538c04a79869231dc372d24cdb\">ea7dbc9</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/dc9eff5d3991b4bae3189019dae7194c8e121f1b\">dc9eff5</a>\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/bd7e17b9e9d19bed9950ee05bfd5b25a92476502\">bd7e17b</a>\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/e2f724d92eb581a44e1de3cff2b07fc63536b0d4\">e2f724d</a>\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/7cd5ca7f085d4ce8e106594050ad8890d1cee1ed\">7cd5ca7</a>\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/597d69e6141a91d8156fbb4c53934aa6cee04993\">597d69e</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/f36bf4265c0f3c0f899774b1becf007c269199a9\">f36bf42</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/dc9eff5d3991b4bae3189019dae7194c8e121f1b\">dc9eff5</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/bd7e17b9e9d19bed9950ee05bfd5b25a92476502\">bd7e17b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/f36bf4265c0f3c0f899774b1becf007c269199a9\">f36bf42</a>\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/dc9eff5d3991b4bae3189019dae7194c8e121f1b\">dc9eff5</a>\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/bd7e17b9e9d19bed9950ee05bfd5b25a92476502\">bd7e17b</a>\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/e2f724d92eb581a44e1de3cff2b07fc63536b0d4\">e2f724d</a>\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/7cd5ca7f085d4ce8e106594050ad8890d1cee1ed\">7cd5ca7</a>\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/597d69e6141a91d8156fbb4c53934aa6cee04993\">597d69e</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/f36bf4265c0f3c0f899774b1becf007c269199a9\">f36bf42</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/dc9eff5d3991b4bae3189019dae7194c8e121f1b\">dc9eff5</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/bd7e17b9e9d19bed9950ee05bfd5b25a92476502\">bd7e17b</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -157,7 +157,7 @@
     "id": "fix-6",
     "tier": 5,
     "desc": "I did 6 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/606b70d35e1cffd7c3aa089ae079678f8924d6d4\">606b70d</a>: fix error\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/ac8cd4fd33f640e4008c8cb4c5054383780ced88\">ac8cd4f</a>: fix error\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/5d1786481336c01953dde3c8286c316c60eed1c9\">5d17864</a>: fix error\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/6ec2b94240a1321a2d30ebf5f344807932d6135d\">6ec2b94</a>: fix error\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/471e76c3f770f3430ef7335c53746904ac569740\">471e76c</a>: fix error\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/01bbd9b45a1569a0bcf23270c11b6deca4e1b64f\">01bbd9b</a>: fix error",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/solusops/commit/606b70d35e1cffd7c3aa089ae079678f8924d6d4\">606b70d</a>: fix error\n- <a href=\"https://github.com/solusops/solusops/commit/ac8cd4fd33f640e4008c8cb4c5054383780ced88\">ac8cd4f</a>: fix error\n- <a href=\"https://github.com/solusops/solusops/commit/5d1786481336c01953dde3c8286c316c60eed1c9\">5d17864</a>: fix error\n- <a href=\"https://github.com/solusops/solusops/commit/6ec2b94240a1321a2d30ebf5f344807932d6135d\">6ec2b94</a>: fix error\n- <a href=\"https://github.com/solusops/solusops/commit/471e76c3f770f3430ef7335c53746904ac569740\">471e76c</a>: fix error\n- <a href=\"https://github.com/solusops/solusops/commit/01bbd9b45a1569a0bcf23270c11b6deca4e1b64f\">01bbd9b</a>: fix error",
     "image": "https://my-badges.github.io/my-badges/fix-6.png"
   },
   {
@@ -171,14 +171,14 @@
     "id": "science-fiction-day",
     "tier": 0,
     "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/ddfc9f07d913fc740005b6d6ddde92b3ac8a4602\">ddfc9f0</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/40abb5552dfe7ce4c10e6326467482ab9016eaad\">40abb55</a>\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/f9bf550913f5e6a7b747752119a3e0a0f785a223\">f9bf550</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/f9bf550913f5e6a7b747752119a3e0a0f785a223\">f9bf550</a>\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/a3c01e34911e9dae1176265ff08c5f370669ece3\">a3c01e3</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/a3c01e34911e9dae1176265ff08c5f370669ece3\">a3c01e3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/solusops/commit/ddfc9f07d913fc740005b6d6ddde92b3ac8a4602\">ddfc9f0</a>\n- <a href=\"https://github.com/solusops/solusops/commit/40abb5552dfe7ce4c10e6326467482ab9016eaad\">40abb55</a>\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/f9bf550913f5e6a7b747752119a3e0a0f785a223\">f9bf550</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/f9bf550913f5e6a7b747752119a3e0a0f785a223\">f9bf550</a>\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/a3c01e34911e9dae1176265ff08c5f370669ece3\">a3c01e3</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/a3c01e34911e9dae1176265ff08c5f370669ece3\">a3c01e3</a>",
     "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   },
   {
     "id": "friday-13",
     "tier": 0,
     "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/df1f09f470e614cd23a78374fa97e2542d932e3c\">df1f09f</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/9563f5b0e8b1555d20e414f337c3a0a54d62cda4\">9563f5b</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/9c9d426722520ee33cc3649c2ea4a734940a1406\">9c9d426</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/7131f0afbd508069fee37e85aebf705f73bc17e8\">7131f0a</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/72edc68d48fed4b91ddb301a81ce52ecc1afc1e4\">72edc68</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/392da625cba68ff4e54ba74cb072c3bae18eea56\">392da62</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/c2f638696df6a76af009b38bc6a1cc85136b0003\">c2f6386</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/ded57aeb948196c3d8e5e1a085393c59f65ab2e8\">ded57ae</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/a8ae4ca203c1faaa69f785917a99017f1a0d0eba\">a8ae4ca</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/2fae76d5fe81667dbc61e37eb352aa4ed1f6aa8f\">2fae76d</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/18ff479a8a427e75923cbee9155f4175626ed4c8\">18ff479</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/b78f5c257863dba97f970c36e34f4b47f3dcda0a\">b78f5c2</a>\n- <a href=\"https://github.com/DataBoySu/StreaxChamp/commit/e8b3459ea6cb6c8c61243d4e47a831a56b628e6d\">e8b3459</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/df1f09f470e614cd23a78374fa97e2542d932e3c\">df1f09f</a>\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/9563f5b0e8b1555d20e414f337c3a0a54d62cda4\">9563f5b</a>\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/9c9d426722520ee33cc3649c2ea4a734940a1406\">9c9d426</a>\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/7131f0afbd508069fee37e85aebf705f73bc17e8\">7131f0a</a>\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/72edc68d48fed4b91ddb301a81ce52ecc1afc1e4\">72edc68</a>\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/392da625cba68ff4e54ba74cb072c3bae18eea56\">392da62</a>\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/c2f638696df6a76af009b38bc6a1cc85136b0003\">c2f6386</a>\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/ded57aeb948196c3d8e5e1a085393c59f65ab2e8\">ded57ae</a>\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/a8ae4ca203c1faaa69f785917a99017f1a0d0eba\">a8ae4ca</a>\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/2fae76d5fe81667dbc61e37eb352aa4ed1f6aa8f\">2fae76d</a>\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/18ff479a8a427e75923cbee9155f4175626ed4c8\">18ff479</a>\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/b78f5c257863dba97f970c36e34f4b47f3dcda0a\">b78f5c2</a>\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/e8b3459ea6cb6c8c61243d4e47a831a56b628e6d\">e8b3459</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
   },
   {
@@ -187,5 +187,12 @@
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/a1f71669d115b23826f9024fa03c4940d5f6851e\">a1f7166</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   }
 ]

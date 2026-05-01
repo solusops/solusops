@@ -4,9 +4,9 @@
 
 Repos:
 
-* <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats: ★3913</a>
-* <a href="https://github.com/DataBoySu/MyGPU">DataBoySu/MyGPU: ★9</a>
-* <a href="https://github.com/DataBoySu/databoysu-readme-translator">DataBoySu/databoysu-readme-translator: ★4</a>
+* <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats: ★3931</a>
+* <a href="https://github.com/solusops/MyGPU">solusops/MyGPU: ★9</a>
+* <a href="https://github.com/solusops/databoysu-readme-translator">solusops/databoysu-readme-translator: ★4</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

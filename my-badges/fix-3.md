@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/DataBoySu/StreaxChamp/commit/1672a18a8fd3aa1d50420545e344630f833a0e89">1672a18</a>: Fix README image rendering
-- <a href="https://github.com/DataBoySu/StreaxChamp/commit/39f9e77045548933f5becf9209f0c3be49acd81e">39f9e77</a>: Fix devvit config
-- <a href="https://github.com/DataBoySu/StreaxChamp/commit/8ad0a4362203c611537542542510d5b0f62f28ad">8ad0a43</a>: Fix devvit config
+- <a href="https://github.com/solusops/TraceFix-RL/commit/8486244458675d5244536bfba47164918c47df81">8486244</a>: fix reward hacking
+- <a href="https://github.com/solusops/TraceFix-RL/commit/d68edbe6abb8d3d06e0e06c17cac56b250b30e0e">d68edbe</a>: fixing state machine
+- <a href="https://github.com/solusops/TraceFix-RL/commit/f2f7107276464abe0f6f7a59df2ab6485e007533">f2f7107</a>: fixing looping/crash
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
