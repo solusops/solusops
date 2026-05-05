@@ -66,7 +66,7 @@ Wish you a good-looking profile README!
 </details>
 
 <p align = "center">
-<a href="https://raw.githubusercontent.com/solusops/Resume/main/su_resume.pdf">
+<a href="https://github.com/solusops/Resume/blob/a05938c1447ced0f83c7f9434d22b24fee45b02a/su_cv.pdf">
 <img width= "30%" src="assets/resume.png" alt="Resume"/>
 </a>
 
