@@ -255,27 +255,8 @@ Wish you a good-looking profile README!
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.73%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                309 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-🌆 Daytime                1302 commits        █████████░░░░░░░░░░░░░░░░   37.93 % 
-🌃 Evening                1496 commits        ███████████░░░░░░░░░░░░░░   43.58 % 
-🌙 Night                  326 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TeX                      3 hrs 42 mins       ████████████████████████░   97.13 % 
-OpenEdge ABL             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-```
-
-
- Last Updated on 10/05/2026 20:29:20 UTC
+ Last Updated on 17/05/2026 20:36:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
