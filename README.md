@@ -65,12 +65,11 @@ Wish you a good-looking profile README!
 
 </details>
 
-<p align = "center">
+<!-- <p align = "center">
 <a href="https://github.com/solusops/Resume/blob/a05938c1447ced0f83c7f9434d22b24fee45b02a/su_cv.pdf">
 <img width= "30%" src="assets/resume.png" alt="Resume"/>
 </a>
-
-</p>
+</p> -->
 
 <p align="center"><a href="https://linkedin.com/in/anshumansingh2023"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <picture> <a href="https://bsky.app/profile/-"></a> <img src="https://img.shields.io/badge/Bluesky-808080?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Bluesky (disabled)"/></picture>
