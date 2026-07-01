@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/solusops/AML-RL_Env/commit/7ae8bca3e6800d07a945ef53c87e3ab12dffe4f0">7ae8bca</a>: fix issues
-- <a href="https://github.com/solusops/AML-RL_Env/commit/2a6078ac51ee4f7737274886c4291d6256821a05">2a6078a</a>: fix huggingface issues
+- <a href="https://github.com/solusops/StudyBuddy/commit/b148681014218562923ce09c7e58a6729be41fc5">b148681</a>: Fixed graph bug ws connecting issue
+- <a href="https://github.com/solusops/StudyBuddy/commit/da69ea86ae83a3377466c495555c1f131a4668ce">da69ea8</a>: Fix in progress for graph bug
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

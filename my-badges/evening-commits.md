@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/solusops/databoysu-readme-translator/commit/9f90cef22ce79530e20d39fd7773f82d22e8ceb2">9f90cef</a>
-- <a href="https://github.com/solusops/AML-RL_Env/commit/dfd1faa9571c7d63d4848e3d29be2346c19f12f1">dfd1faa</a>
-- <a href="https://github.com/solusops/AML-RL_Env/commit/a4c032ab36a29e203d9fbabfbcb61f154b093b42">a4c032a</a>
-- <a href="https://github.com/solusops/AML-RL_Env/commit/bfed85f00595d256740a397778ccb89bc7004d60">bfed85f</a>
-- <a href="https://github.com/solusops/AML-RL_Env/commit/1a65601cab900d0174f42cc1a36ba775aebeae59">1a65601</a>
-- <a href="https://github.com/solusops/AML-RL_Env/commit/7ae8bca3e6800d07a945ef53c87e3ab12dffe4f0">7ae8bca</a>
+- <a href="https://github.com/solusops/StudyBuddy/commit/cecbc6de14afaeaf37c63b78b2546fd2253b681a">cecbc6d</a>
+- <a href="https://github.com/solusops/StudyBuddy/commit/cc9ff4830d32514a24b88af74f43e6e3f0b9551c">cc9ff48</a>
+- <a href="https://github.com/solusops/StudyBuddy/commit/e5e900446bfe6737503bedc5aeedc6ecd7a37ef5">e5e9004</a>
+- <a href="https://github.com/solusops/StudyBuddy/commit/38f3f0eb53384c84f60ecf2aa525606033340065">38f3f0e</a>
+- <a href="https://github.com/solusops/StudyBuddy/commit/fb338bd92f4b1c640351d28f0dacda65fa95ca22">fb338bd</a>
+- <a href="https://github.com/solusops/StudyBuddy/commit/4f7af6ac11873fd72a91284d9f3c5c4cf619b52e">4f7af6a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

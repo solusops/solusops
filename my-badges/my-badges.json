@@ -14,17 +14,10 @@
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
-    "id": "delorean",
-    "tier": 0,
-    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/Resume/commit/2f84a22430cb3e9d17e46cd49e98f8155853aa89\">2f84a22</a>\n- <a href=\"https://github.com/solusops/Resume/commit/025d40429780425fb9973f24c5d1f2208f74d63c\">025d404</a>",
-    "image": "https://my-badges.github.io/my-badges/delorean.png"
-  },
-  {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 203 times)\n2. fix (used 193 times)\n3. merge (used 123 times)\n4. ci (used 89 times)\n5. branch (used 84 times)",
+    "desc": "My favorite word is \"fix\".",
+    "body": "My favorite commit message words are:\n\n1. fix (used 205 times)\n2. update (used 203 times)\n3. merge (used 123 times)\n4. co-authored-by: (used 100 times)\n5. ci (used 89 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,21 +38,21 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/TraceFix-RL/commit/248cfea2361411d1cf282d53a217f8d65b248829\">248cfea</a>\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/d69c263e2ca8855d936ece6cc541937dca797be7\">d69c263</a>\n- <a href=\"https://github.com/solusops/solusops/commit/a2dfb19638e1f4d259c93d8cf68facb978ec632c\">a2dfb19</a>\n- <a href=\"https://github.com/solusops/solusops/commit/4a153089fdf81cf07a93ff3db151722c8bff6595\">4a15308</a>\n- <a href=\"https://github.com/solusops/solusops/commit/4bfd1f5bff300beeba751422cd44f0189f681331\">4bfd1f5</a>\n- <a href=\"https://github.com/solusops/solusops/commit/1e6bb4efd24b778fa1aa2d2e3c6862164c148b49\">1e6bb4e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/c6eb55d1729aa991afa4b4d4721bb696e2bea282\">c6eb55d</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/7ac753366e285b07bc15d46c94f673c77ede4c71\">7ac7533</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/b3ab839ff300246302d48f305c8897b8b8cb0913\">b3ab839</a>\n- <a href=\"https://github.com/solusops/Draw-with-Karel/commit/031827caf77c743202f9d0f9480d86b28253936a\">031827c</a>\n- <a href=\"https://github.com/solusops/Draw-with-Karel/commit/7bddeda569be2bbafbadb784e99fb3971d4c9422\">7bddeda</a>\n- <a href=\"https://github.com/solusops/Draw-with-Karel/commit/b162340ea9f418aa1c5dec6cee4eb9b07e460094\">b162340</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/databoysu-readme-translator/commit/9f90cef22ce79530e20d39fd7773f82d22e8ceb2\">9f90cef</a>\n- <a href=\"https://github.com/solusops/AML-RL_Env/commit/dfd1faa9571c7d63d4848e3d29be2346c19f12f1\">dfd1faa</a>\n- <a href=\"https://github.com/solusops/AML-RL_Env/commit/a4c032ab36a29e203d9fbabfbcb61f154b093b42\">a4c032a</a>\n- <a href=\"https://github.com/solusops/AML-RL_Env/commit/bfed85f00595d256740a397778ccb89bc7004d60\">bfed85f</a>\n- <a href=\"https://github.com/solusops/AML-RL_Env/commit/1a65601cab900d0174f42cc1a36ba775aebeae59\">1a65601</a>\n- <a href=\"https://github.com/solusops/AML-RL_Env/commit/7ae8bca3e6800d07a945ef53c87e3ab12dffe4f0\">7ae8bca</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/cecbc6de14afaeaf37c63b78b2546fd2253b681a\">cecbc6d</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/cc9ff4830d32514a24b88af74f43e6e3f0b9551c\">cc9ff48</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/e5e900446bfe6737503bedc5aeedc6ecd7a37ef5\">e5e9004</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/38f3f0eb53384c84f60ecf2aa525606033340065\">38f3f0e</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/fb338bd92f4b1c640351d28f0dacda65fa95ca22\">fb338bd</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/4f7af6ac11873fd72a91284d9f3c5c4cf619b52e\">4f7af6a</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/AML-RL_Env/commit/7ae8bca3e6800d07a945ef53c87e3ab12dffe4f0\">7ae8bca</a>: fix issues\n- <a href=\"https://github.com/solusops/AML-RL_Env/commit/2a6078ac51ee4f7737274886c4291d6256821a05\">2a6078a</a>: fix huggingface issues",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/b148681014218562923ce09c7e58a6729be41fc5\">b148681</a>: Fixed graph bug ws connecting issue\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/da69ea86ae83a3377466c495555c1f131a4668ce\">da69ea8</a>: Fix in progress for graph bug",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -73,35 +66,35 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/0b04856850dc68f1fec3ff94b56481b1313d12e3\">0b04856</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/BDAI-Tech-Puzzle-2026/commit/7bb83b83fb8ef5d4881ec802ebf452f9930a50a7\">7bb83b8</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3948</a>\n* <a href=\"https://github.com/solusops/MyGPU\">solusops/MyGPU: ★9</a>\n* <a href=\"https://github.com/solusops/databoysu-readme-translator\">solusops/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3958</a>\n* <a href=\"https://github.com/solusops/MyGPU\">solusops/MyGPU: ★9</a>\n* <a href=\"https://github.com/solusops/databoysu-readme-translator\">solusops/databoysu-readme-translator: ★4</a>\n* <a href=\"https://github.com/solusops/Draw-with-Karel\">solusops/Draw-with-Karel: ★3</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "stars-500",
     "tier": 2,
     "desc": "I collected 500 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3948</a>\n* <a href=\"https://github.com/solusops/MyGPU\">solusops/MyGPU: ★9</a>\n* <a href=\"https://github.com/solusops/databoysu-readme-translator\">solusops/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3958</a>\n* <a href=\"https://github.com/solusops/MyGPU\">solusops/MyGPU: ★9</a>\n* <a href=\"https://github.com/solusops/databoysu-readme-translator\">solusops/databoysu-readme-translator: ★4</a>\n* <a href=\"https://github.com/solusops/Draw-with-Karel\">solusops/Draw-with-Karel: ★3</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-500.png"
   },
   {
     "id": "stars-1000",
     "tier": 3,
     "desc": "I collected 1000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3948</a>\n* <a href=\"https://github.com/solusops/MyGPU\">solusops/MyGPU: ★9</a>\n* <a href=\"https://github.com/solusops/databoysu-readme-translator\">solusops/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3958</a>\n* <a href=\"https://github.com/solusops/MyGPU\">solusops/MyGPU: ★9</a>\n* <a href=\"https://github.com/solusops/databoysu-readme-translator\">solusops/databoysu-readme-translator: ★4</a>\n* <a href=\"https://github.com/solusops/Draw-with-Karel\">solusops/Draw-with-Karel: ★3</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-1000.png"
   },
   {
     "id": "stars-2000",
     "tier": 4,
     "desc": "I collected 2000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3948</a>\n* <a href=\"https://github.com/solusops/MyGPU\">solusops/MyGPU: ★9</a>\n* <a href=\"https://github.com/solusops/databoysu-readme-translator\">solusops/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3958</a>\n* <a href=\"https://github.com/solusops/MyGPU\">solusops/MyGPU: ★9</a>\n* <a href=\"https://github.com/solusops/databoysu-readme-translator\">solusops/databoysu-readme-translator: ★4</a>\n* <a href=\"https://github.com/solusops/Draw-with-Karel\">solusops/Draw-with-Karel: ★3</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-2000.png"
   },
   {
@@ -115,7 +108,7 @@
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/ca1389988bf49024eecf65a0d59ef3e90a3688d8\">ca13899</a>\n- <a href=\"https://github.com/solusops/MyGPU/commit/eb89f316c025df6b400cecd2c7fd0246b3ad421f\">eb89f31</a>\n- <a href=\"https://github.com/solusops/MyGPU/commit/ba73be6cb3755ed1160a6ebfdabde50271e3b281\">ba73be6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/bc01344bcf16d0f39f737d4017569f84b5f1e55c\">bc01344</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/4e4327c4f8a1de4d51db1dece6bf385290fa25fc\">4e4327c</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/a65ccf2cb2a6fc455383aa8757c69d649e3bc301\">a65ccf2</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/66a0e61180d995734cf896573d1e9be9c6fe77b3\">66a0e61</a>\n- <a href=\"https://github.com/solusops/BDAI-Tech-Puzzle-2026/commit/40356e5a284abfec38f23dbe89380e1743e872aa\">40356e5</a>\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/ca1389988bf49024eecf65a0d59ef3e90a3688d8\">ca13899</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -129,7 +122,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/StreaxChamp/commit/0b04856850dc68f1fec3ff94b56481b1313d12e3\">0b04856</a>: chore: remove .agent from tracking",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/af8ba5115e15558db5c4736e7914a8c8232a3008\">af8ba51</a>: chore: switch to uv + pyproject.toml, remove requirements.txt\n\nReplaces pip/requirements.txt with uv and pyproject.toml. Runtime deps in\n[project] dependencies, dev/test deps in [dependency-groups] dev. All run\ncommands updated to use uv run (uvicorn, pytest). uv.lock committed.\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01GooNz7qh4Phx6cjuYxb6DJ",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -143,7 +136,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/f36bf4265c0f3c0f899774b1becf007c269199a9\">f36bf42</a>\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/dc9eff5d3991b4bae3189019dae7194c8e121f1b\">dc9eff5</a>\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/bd7e17b9e9d19bed9950ee05bfd5b25a92476502\">bd7e17b</a>\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/e2f724d92eb581a44e1de3cff2b07fc63536b0d4\">e2f724d</a>\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/7cd5ca7f085d4ce8e106594050ad8890d1cee1ed\">7cd5ca7</a>\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/597d69e6141a91d8156fbb4c53934aa6cee04993\">597d69e</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/f36bf4265c0f3c0f899774b1becf007c269199a9\">f36bf42</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/dc9eff5d3991b4bae3189019dae7194c8e121f1b\">dc9eff5</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/bd7e17b9e9d19bed9950ee05bfd5b25a92476502\">bd7e17b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/ab532e1f1decb3faf72bc6a7bdb7f36edb790c38\">ab532e1</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/6e25e67ff88593960725f759c29d792fe3a578cd\">6e25e67</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/606f83653c1e76ef7bcacb39de986a7c9aba58b9\">606f836</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/8f2e1fd85132745aeed6c7e146aa567233bf769f\">8f2e1fd</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/105fa772af82e7eda78082c6ce39b444085f7363\">105fa77</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/7abf0f87c2a7c6d7737103990b6803b22bc1b608\">7abf0f8</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/107236d1ea435efb3de8570596726421e64cf10b\">107236d</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/7ac753366e285b07bc15d46c94f673c77ede4c71\">7ac7533</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/b3ab839ff300246302d48f305c8897b8b8cb0913\">b3ab839</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/340f7d061efb4a53db382e30393e44e7298a4e6e\">340f7d0</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/1976cd295e6a560119bb3c8fad786440467d345c\">1976cd2</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/df03277061411aa9d1a4f20e73d06626cb5f186e\">df03277</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/b23cdbec85197af578f68c7688b915a4ff9bf72d\">b23cdbe</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/f917806c8f7cd098c0ef717716c44422493075a8\">f917806</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/a65ccf2cb2a6fc455383aa8757c69d649e3bc301\">a65ccf2</a>\n- <a href=\"https://github.com/solusops/StudyBuddy/commit/66a0e61180d995734cf896573d1e9be9c6fe77b3\">66a0e61</a>\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/f36bf4265c0f3c0f899774b1becf007c269199a9\">f36bf42</a>\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/dc9eff5d3991b4bae3189019dae7194c8e121f1b\">dc9eff5</a>\n- <a href=\"https://github.com/solusops/waka-readme-stats/commit/bd7e17b9e9d19bed9950ee05bfd5b25a92476502\">bd7e17b</a>\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/e2f724d92eb581a44e1de3cff2b07fc63536b0d4\">e2f724d</a>\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/7cd5ca7f085d4ce8e106594050ad8890d1cee1ed\">7cd5ca7</a>\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/597d69e6141a91d8156fbb4c53934aa6cee04993\">597d69e</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/f36bf4265c0f3c0f899774b1becf007c269199a9\">f36bf42</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/dc9eff5d3991b4bae3189019dae7194c8e121f1b\">dc9eff5</a>\n- <a href=\"https://github.com/anmol098/waka-readme-stats/commit/bd7e17b9e9d19bed9950ee05bfd5b25a92476502\">bd7e17b</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -185,7 +178,7 @@
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/OpenDistricts/Open-Districts/commit/a1f71669d115b23826f9024fa03c4940d5f6851e\">a1f7166</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/BDAI-Tech-Puzzle-2026/commit/737df898049af723f3e3b4224bb33486891fc27d\">737df89</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
@@ -201,5 +194,12 @@
     "desc": "May the 4th be with you!",
     "body": "Commits:\n\n- <a href=\"https://github.com/solusops/databoysu-readme-translator/commit/9f90cef22ce79530e20d39fd7773f82d22e8ceb2\">9f90cef</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/solusops/BDAI-Tech-Puzzle-2026/commit/563ae943368f80bddea979b88f3c358d4a598917\">563ae94</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   }
 ]

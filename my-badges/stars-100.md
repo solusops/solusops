@@ -4,9 +4,10 @@
 
 Repos:
 
-* <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats: ★3948</a>
+* <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats: ★3958</a>
 * <a href="https://github.com/solusops/MyGPU">solusops/MyGPU: ★9</a>
 * <a href="https://github.com/solusops/databoysu-readme-translator">solusops/databoysu-readme-translator: ★4</a>
+* <a href="https://github.com/solusops/Draw-with-Karel">solusops/Draw-with-Karel: ★3</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
