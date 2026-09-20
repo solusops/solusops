@@ -258,13 +258,13 @@ YAML                     6 mins              █████████░░�
 <!--START_SECTION:waka30-->
 
 ```txt
-From: 14 August 2026 - To: 13 September 2026
+From: 21 August 2026 - To: 20 September 2026
 
-Markdown     8 hrs                 🟦🟦🟦🟦🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   26.26 %
-TeX          6 hrs 56 mins         🟦🟦🟦🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   22.74 %
-Python       4 hrs 20 mins         🟦🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   14.23 %
-HTML         3 hrs 4 mins          🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   10.08 %
-Git Config   2 hrs 6 mins          🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   06.91 %
+TeX          6 hrs 39 mins         🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   24.81 %
+Markdown     6 hrs 12 mins         🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   23.14 %
+Python       3 hrs 37 mins         🟦🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   13.51 %
+HTML         2 hrs 59 mins         🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   11.19 %
+Other        1 hr 58 mins          🟦🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   07.38 %
 ```
 
 <!--END_SECTION:waka30-->
