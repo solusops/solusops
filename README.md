@@ -260,13 +260,13 @@ Text                     2 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka30-->
 
 ```txt
-From: 04 September 2026 - To: 04 October 2026
+From: 11 September 2026 - To: 11 October 2026
 
-Python       3 hrs 9 mins          🟦🟦🟦🟦🟦🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   29.27 %
-HTML         2 hrs 54 mins         🟦🟦🟦🟦🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   26.94 %
-Git Config   1 hr 17 mins          🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   11.92 %
-TeX          1 hr 14 mins          🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   11.60 %
-Other        1 hr 8 mins           🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   10.66 %
+Python       1 hr 37 mins          🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   54.70 %
+Markdown     38 mins               🟦🟦🟦🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   21.46 %
+JavaScript   17 mins               🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   09.96 %
+Other        16 mins               🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   09.20 %
+YAML         6 mins                🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   03.55 %
 ```
 
 <!--END_SECTION:waka30-->
