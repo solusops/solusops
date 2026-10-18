@@ -243,14 +243,15 @@ Wish you a good-looking profile README!
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 35 mins        ████████████████░░░░░░░░░   64.50 % 
-Markdown                 38 mins             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Python                   12 hrs 24 mins      ███████████████░░░░░░░░░░   61.98 % 
+TeX                      4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
 
- Last Updated on 11/10/2026 23:38:42 UTC
+ Last Updated on 18/10/2026 22:13:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
