@@ -261,13 +261,13 @@ HTML                     11 mins             ░░░░░░░░░░░�
 <!--START_SECTION:waka30-->
 
 ```txt
-From: 11 September 2026 - To: 11 October 2026
+From: 18 September 2026 - To: 18 October 2026
 
-Python       1 hr 37 mins          🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   54.70 %
-Markdown     38 mins               🟦🟦🟦🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   21.46 %
-JavaScript   17 mins               🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   09.96 %
-Other        16 mins               🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   09.20 %
-YAML         6 mins                🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   03.55 %
+Python       13 hrs 42 mins        🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛   61.69 %
+TeX          4 hrs 28 mins         🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   20.13 %
+Markdown     2 hrs 6 mins          🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   09.48 %
+JavaScript   1 hr 4 mins           🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   04.84 %
+Other        15 mins               🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   01.17 %
 ```
 
 <!--END_SECTION:waka30-->
