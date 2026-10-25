@@ -232,10 +232,10 @@ Wish you a good-looking profile README!
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                590 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-🌆 Daytime                1941 commits        █████████░░░░░░░░░░░░░░░░   35.39 % 
-🌃 Evening                2431 commits        ███████████░░░░░░░░░░░░░░   44.33 % 
-🌙 Night                  522 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+🌞 Morning                590 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+🌆 Daytime                1941 commits        █████████░░░░░░░░░░░░░░░░   35.32 % 
+🌃 Evening                2442 commits        ███████████░░░░░░░░░░░░░░   44.43 % 
+🌙 Night                  523 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 
 
@@ -243,15 +243,14 @@ Wish you a good-looking profile README!
 
 ```text
 💬 Programming Languages: 
-Python                   12 hrs 24 mins      ███████████████░░░░░░░░░░   61.98 % 
-TeX                      4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Python                   38 hrs 31 mins      █████████████████████░░░░   85.04 % 
+Markdown                 3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Other                    2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
- Last Updated on 18/10/2026 22:13:22 UTC
+ Last Updated on 25/10/2026 22:36:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
