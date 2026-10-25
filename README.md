@@ -260,13 +260,13 @@ JSON                     1 hr 9 mins         █░░░░░░░░░░�
 <!--START_SECTION:waka30-->
 
 ```txt
-From: 18 September 2026 - To: 18 October 2026
+From: 25 September 2026 - To: 25 October 2026
 
-Python       13 hrs 42 mins        🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛   61.69 %
-TeX          4 hrs 28 mins         🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   20.13 %
-Markdown     2 hrs 6 mins          🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   09.48 %
-JavaScript   1 hr 4 mins           🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   04.84 %
-Other        15 mins               🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   01.17 %
+Python       67 hrs                🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛⬛   76.21 %
+Markdown     8 hrs 48 mins         🟦🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   10.01 %
+TeX          4 hrs 28 mins         🟦🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   05.09 %
+JSON         3 hrs 4 mins          🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   03.50 %
+Other        2 hrs 31 mins         🔵⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   02.86 %
 ```
 
 <!--END_SECTION:waka30-->
