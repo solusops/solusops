@@ -227,15 +227,15 @@ Wish you a good-looking profile README!
 </picture></summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.57%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.89%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                590 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-🌆 Daytime                1941 commits        █████████░░░░░░░░░░░░░░░░   35.32 % 
-🌃 Evening                2442 commits        ███████████░░░░░░░░░░░░░░   44.43 % 
-🌙 Night                  523 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+🌞 Morning                594 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+🌆 Daytime                1964 commits        █████████░░░░░░░░░░░░░░░░   35.28 % 
+🌃 Evening                2479 commits        ███████████░░░░░░░░░░░░░░   44.53 % 
+🌙 Night                  530 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 
 
@@ -243,14 +243,15 @@ Wish you a good-looking profile README!
 
 ```text
 💬 Programming Languages: 
-Python                   38 hrs 31 mins      █████████████████████░░░░   85.04 % 
-Markdown                 3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Other                    2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   2 hrs 20 mins       █████████████░░░░░░░░░░░░   51.41 % 
+Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+JavaScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+TeX                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 
 
- Last Updated on 25/10/2026 22:36:49 UTC
+ Last Updated on 05/11/2026 17:03:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
