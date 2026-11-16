@@ -166,7 +166,7 @@ h1 { font-weight: 500; }
 .chips { display: flex; gap: 2px; }
 #stills { grid-column: 1; justify-self: start; }
 .chips[hidden] { display: none; }
-.pots { grid-row: 2; align-self: center; justify-self: center; display: flex; align-items: end; justify-content: center; gap: clamp(8px, 2.4vw, 30px); width: min(76vw, 760px); pointer-events: auto; }
+.pots { position: fixed; z-index: 4; left: 50%; top: 76%; transform: translateX(-50%); display: flex; align-items: end; justify-content: center; gap: clamp(8px, 2.4vw, 30px); width: min(76vw, 760px); pointer-events: auto; }
 .pot { position: relative; display: grid; justify-items: center; gap: 5px; width: clamp(48px, 8vw, 78px); color: var(--ink); text-decoration: none; cursor: pointer; }
 .pot-icon { position: relative; display: block; width: 42px; height: 52px; filter: drop-shadow(0 5px 4px #0004); transition: transform .2s var(--out); }
 .pot-icon::before { content: '✿'; position: absolute; top: -8px; left: 8px; color: var(--bloom); font: 31px/1 Georgia, serif; }
@@ -190,7 +190,7 @@ h1 { font-weight: 500; }
   .nav, #stills, .count { grid-column: 1; } #stills { justify-self: center; order: 2; }
   .count { display: none; }
   .icon { width: 44px; height: 44px; } .chip { height: 44px; }
-  .pots { width: 94vw; gap: 4px; transform: translateY(-8vh); } .pot { width: 18vw; } .pot-icon { transform: scale(.88); } .pot:hover .pot-icon, .pot:focus-visible .pot-icon { transform: scale(.88) translateY(-7px); } .pot-name { font-size: 9px; }
+  .pots { top: 72%; width: 94vw; gap: 4px; } .pot { width: 18vw; } .pot-icon { transform: scale(.88); } .pot:hover .pot-icon, .pot:focus-visible .pot-icon { transform: scale(.88) translateY(-7px); } .pot-name { font-size: 9px; }
 }
 @media (prefers-reduced-motion: reduce) { .stage, .icon, .chip { transition: none; } .icon:active, .chip:active { transform: none; } }
 </style><style class="darkreader darkreader--sync" media="screen"></style>
