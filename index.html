@@ -166,6 +166,19 @@ h1 { font-weight: 500; }
 .chips { display: flex; gap: 2px; }
 #stills { grid-column: 1; justify-self: start; }
 .chips[hidden] { display: none; }
+.pots { grid-row: 2; align-self: center; justify-self: center; display: flex; align-items: end; justify-content: center; gap: clamp(8px, 2.4vw, 30px); width: min(76vw, 760px); pointer-events: auto; }
+.pot { position: relative; display: grid; justify-items: center; gap: 5px; width: clamp(48px, 8vw, 78px); color: var(--ink); text-decoration: none; cursor: pointer; }
+.pot-icon { position: relative; display: block; width: 42px; height: 52px; filter: drop-shadow(0 5px 4px #0004); transition: transform .2s var(--out); }
+.pot-icon::before { content: '✿'; position: absolute; top: -8px; left: 8px; color: var(--bloom); font: 31px/1 Georgia, serif; }
+.pot-icon::after { content: ''; position: absolute; left: 19px; top: 17px; width: 4px; height: 17px; border-radius: 3px; background: #365b3b; box-shadow: -5px 9px 0 -1px #527b45; }
+.pot-body { position: absolute; left: 6px; bottom: 0; width: 31px; height: 24px; background: var(--clay); clip-path: polygon(0 0,100% 0,86% 100%,14% 100%); }
+.pot-body::before { content: ''; position: absolute; inset: 0 0 auto; height: 5px; background: color-mix(in srgb, var(--clay), #fff 20%); }
+.pot:hover .pot-icon, .pot:focus-visible .pot-icon { transform: translateY(-7px); }
+.pot-name { font-size: 10px; line-height: 1.2; font-weight: 500; text-align: center; }
+.pot-tip { position: absolute; bottom: calc(100% + 8px); left: 50%; z-index: 8; width: max-content; max-width: min(220px, 65vw); padding: 7px 10px; border-radius: 8px; background: color-mix(in srgb, var(--plate, #e7d4bd) 94%, transparent); color: var(--ink); font-size: 11px; line-height: 1.35; text-align: center; box-shadow: 0 3px 12px #0003; opacity: 0; visibility: hidden; transform: translate(-50%, 4px); transition: opacity .15s ease, transform .15s ease, visibility .15s; pointer-events: none; }
+.pot:hover .pot-tip, .pot:focus-visible .pot-tip, .pot:focus .pot-tip { opacity: 1; visibility: visible; transform: translate(-50%, 0); }
+.pot:focus-visible { outline: 2px solid var(--ink); outline-offset: 5px; border-radius: 5px; }
+.pot-rest { cursor: default; }
 .chip { height: 30px; padding: 0 10px; border-radius: 8px; opacity: 0.66; user-select: none; -webkit-user-select: none; transition: opacity 0.15s ease-out, background-color 0.15s ease-out; }
 .chip:hover, .chip[aria-pressed="true"] { opacity: 1; }
 .chip[aria-pressed="true"] { background: color-mix(in srgb, var(--ink) 13%, transparent); }
@@ -177,6 +190,7 @@ h1 { font-weight: 500; }
   .nav, #stills, .count { grid-column: 1; } #stills { justify-self: center; order: 2; }
   .count { display: none; }
   .icon { width: 44px; height: 44px; } .chip { height: 44px; }
+  .pots { width: 94vw; gap: 4px; transform: translateY(-8vh); } .pot { width: 18vw; } .pot-icon { transform: scale(.88); } .pot:hover .pot-icon, .pot:focus-visible .pot-icon { transform: scale(.88) translateY(-7px); } .pot-name { font-size: 9px; }
 }
 @media (prefers-reduced-motion: reduce) { .stage, .icon, .chip { transition: none; } .icon:active, .chip:active { transform: none; } }
 </style><style class="darkreader darkreader--sync" media="screen"></style>
@@ -424,6 +438,13 @@ embed[type="application/pdf"][src="about:blank"] { filter: invert(100%) contrast
 </div>
 <main class="words">
   <header class="top"><h1>Living Scenes</h1><span class="chips" id="seasons" role="group" aria-label="Season" hidden=""><button type="button" class="chip" data-season="Now" aria-pressed="true">Now</button><button type="button" class="chip" data-season="Spring" aria-pressed="false">Spring</button><button type="button" class="chip" data-season="Summer" aria-pressed="false">Summer</button><button type="button" class="chip" data-season="Fall" aria-pressed="false">Fall</button><button type="button" class="chip" data-season="Winter" aria-pressed="false">Winter</button></span></header>
+  <nav class="pots" aria-label="Portfolio destinations">
+    <a class="pot" href="index/portfolio.html" aria-label="Portfolio: selected work, research, and milestones" style="--bloom:#d57991;--clay:#a75f43"><span class="pot-icon"><span class="pot-body"></span></span><span class="pot-name">Portfolio</span><span class="pot-tip">Selected work, research, and milestones.</span></a>
+    <span class="pot pot-rest" tabindex="0" role="img" aria-label="Research: coming soon" style="--bloom:#e7bd56;--clay:#527b68"><span class="pot-icon"><span class="pot-body"></span></span><span class="pot-name">Research</span><span class="pot-tip">Research notes and current work — coming soon.</span></span>
+    <span class="pot pot-rest" tabindex="0" role="img" aria-label="Projects: coming soon" style="--bloom:#a783c8;--clay:#537b89"><span class="pot-icon"><span class="pot-body"></span></span><span class="pot-name">Projects</span><span class="pot-tip">Small builds and experiments — coming soon.</span></span>
+    <span class="pot pot-rest" tabindex="0" role="img" aria-label="Writing: coming soon" style="--bloom:#e38e59;--clay:#9a645b"><span class="pot-icon"><span class="pot-body"></span></span><span class="pot-name">Writing</span><span class="pot-tip">Articles and notes — coming soon.</span></span>
+    <span class="pot pot-rest" tabindex="0" role="img" aria-label="Contact: coming soon" style="--bloom:#d57991;--clay:#8e7049"><span class="pot-icon"><span class="pot-body"></span></span><span class="pot-name">Contact</span><span class="pot-tip">Ways to get in touch — coming soon.</span></span>
+  </nav>
   <div class="bar">
     <span class="chips" id="stills" role="group" aria-label="Setting" hidden=""></span>
     <div class="nav">
